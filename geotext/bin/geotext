@@ -1,0 +1,43 @@
+#!/usr/bin/env python
+
+
+import click
+
+
+@click.group()
+def geotext():
+    pass
+
+
+@geotext.command()
+def extract():
+
+    """
+    Extract toponyms from a text file.
+    """
+
+    print('extract')
+
+
+@geotext.command()
+def geocode():
+
+    """
+    Geocode toponyms in a CSV file.
+    """
+
+    print('geocode')
+
+
+@geotext.command()
+def csv_to_geojson():
+
+    """
+    Convert a geocoded CSV to GeoJSON.
+    """
+
+    print('geojson')
+
+
+if __name__ == '__main__':
+    geotext()
