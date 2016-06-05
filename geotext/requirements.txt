@@ -1,5 +1,6 @@
 
 ipython
 click
+numpy
 polyglot
 nltk

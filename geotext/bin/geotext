@@ -2,6 +2,9 @@
 
 
 import click
+import csv
+
+from polyglot.text import Text
 
 
 @click.group()
@@ -10,13 +13,27 @@ def geotext():
 
 
 @geotext.command()
-def extract():
+@click.argument('in_file', type=click.File('r'))
+@click.argument('out_file', type=click.File('w'))
+def extract_toponyms(in_file, out_file):
 
     """
     Extract toponyms from a text file.
     """
 
-    print('extract')
+    text = Text(in_file.read())
+
+    entities = [e for e in text.entities if e.tag == 'I-LOC']
+
+    writer = csv.DictWriter(out_file, ['toponym'])
+    writer.writeheader()
+
+    for e in entities:
+
+        # Get the raw string of the entity.
+        toponym = ' '.join(text.words[e.start:e.end])
+
+        writer.writerow(dict(toponym=toponym))
 
 
 @geotext.command()
