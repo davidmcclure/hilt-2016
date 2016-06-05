@@ -31,6 +31,7 @@ def extract_toponyms(in_file, out_file):
 
     text = Text(in_file.read())
 
+    # Extract location entities.
     entities = [e for e in text.entities if e.tag == 'I-LOC']
 
     cols = ['toponym', 'start']
@@ -51,7 +52,8 @@ def extract_toponyms(in_file, out_file):
 @geotext.command()
 @click.argument('in_file', type=click.File('r'))
 @click.argument('out_file', type=click.File('w'))
-def geocode(in_file, out_file):
+@click.option('--country', type=str)
+def geocode(in_file, out_file, country):
 
     """
     Geocode toponyms in a CSV file.
@@ -59,14 +61,39 @@ def geocode(in_file, out_file):
 
     reader = csv.DictReader(in_file)
 
-    # TODO|dev
-    geocoder = Mapzen(api_key=os.environ.get('MAPZEN_KEY'))
+    geocoder = Mapzen(
+        api_key=os.environ.get('MAPZEN_KEY'),
+        country_bias=country,
+        timeout=10,
+    )
+
+    # Add lon/lat fields to the CSV.
+    cols = reader.fieldnames + ['latitude', 'longitude']
+
+    writer = csv.DictWriter(out_file, cols)
+    writer.writeheader()
 
     for row in reader:
 
-        loc = geocoder.geocode(row['toponym'])
+        try:
 
-        print(row['toponym'], loc.point)
+            # Query the Mapzen API.
+            loc = geocoder.geocode(row['toponym'])
+
+            # Merge in the coordinates.
+            row.update(dict(
+                latitude=loc.latitude,
+                longitude=loc.longitude,
+            ))
+
+            # Write the result to the CSV.
+            writer.writerow(row)
+
+            # Log progress.
+            print(row['toponym'], loc.point)
+
+        except Exception as e:
+            print(e)
 
 
 @geotext.command()
