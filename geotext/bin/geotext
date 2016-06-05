@@ -25,7 +25,8 @@ def extract_toponyms(in_file, out_file):
 
     entities = [e for e in text.entities if e.tag == 'I-LOC']
 
-    writer = csv.DictWriter(out_file, ['toponym'])
+    cols = ['toponym', 'start']
+    writer = csv.DictWriter(out_file, cols)
     writer.writeheader()
 
     for e in entities:
@@ -33,7 +34,10 @@ def extract_toponyms(in_file, out_file):
         # Get the raw string of the entity.
         toponym = ' '.join(text.words[e.start:e.end])
 
-        writer.writerow(dict(toponym=toponym))
+        writer.writerow(dict(
+            toponym=toponym,
+            start=e.start,
+        ))
 
 
 @geotext.command()
