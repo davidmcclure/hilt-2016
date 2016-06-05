@@ -4,3 +4,6 @@ click
 numpy
 polyglot
 nltk
+python-dotenv
+
+-e git+https://github.com/geopy/geopy.git#egg=geopy
