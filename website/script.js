@@ -6,7 +6,7 @@ function createMap(json) {
 
   var map = L.map('map').setView([51.505, -0.09], 2);
 
-  var layer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png');
+  var layer = L.tileLayer.provider('Esri.WorldGrayCanvas');
 
   map.addLayer(layer)
 
@@ -21,6 +21,8 @@ function createMap(json) {
     // Create the marker.
     var marker = L.circleMarker([lat, lon], {
       start: Number(f.properties.start),
+      radius: 5,
+      className: 'toponym',
     });
 
     // Attach the tooltip.

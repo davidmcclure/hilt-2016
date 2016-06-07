@@ -15,3 +15,8 @@ body {
   right: 1em;
   width: 30%;
 }
+
+path.toponym {
+  stroke-width: 0;
+  fill: rebeccapurple;
+}
