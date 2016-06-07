@@ -10,35 +10,57 @@ function createMap(json) {
 
   map.addLayer(layer)
 
-  var group = L.featureGroup();
+  var markers = []
 
-  // Render the points.
+  // Loop through the points.
   _.each(json.features, function(f) {
 
     var lat = f.geometry.coordinates[1];
     var lon = f.geometry.coordinates[0];
 
+    // Create the marker.
     var marker = L.circleMarker([lat, lon], {
-      feature: f,
+      start: Number(f.properties.start),
     });
 
+    // Attach the tooltip.
     marker.bindPopup(f.properties.toponym);
 
-    group.addLayer(marker)
+    map.addLayer(marker);
+    markers.push(marker);
 
   });
 
-  map.addLayer(group);
-
   // ** Slider
 
-  var input = $('input[type="range"]');
+  var input = $('#slider');
 
-  // Set the last offset as the slider max.
+  // Set the last offset as the slider max value.
   var maxOffset = _.last(json.features).properties.start;
-  input.attr('end', maxOffset);
+  input.attr('max', maxOffset);
 
-  input.rangeslider();
+  // When the slider is moved:
+  input.on('input', function() {
+
+    var val = input.val();
+
+    _.each(markers, function(m) {
+
+      // Show the marker if the slider is dragged beyond it's offset.
+      if (m.options.start < val) {
+        map.addLayer(m);
+      }
+
+      // Otherwise, hide it.
+      else {
+        map.removeLayer(m);
+      }
+
+    });
+
+  });
+
+  input.trigger('input');
 
 }
 

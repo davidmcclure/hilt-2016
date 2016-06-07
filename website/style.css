@@ -11,6 +11,7 @@ body {
 
 #slider {
   position: fixed;
-  top: 0;
-  right: 0;
+  top: 1em;
+  right: 1em;
+  width: 30%;
 }
