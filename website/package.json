@@ -1,0 +1,10 @@
+{
+  "name": "hilt2016",
+  "version": "1.0.0",
+  "description": "HILT 2016.",
+  "author": "David McClure",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
