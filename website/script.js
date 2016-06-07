@@ -4,7 +4,7 @@ function createMap(json) {
 
   // ** Map
 
-  var map = L.map('map').setView([51.505, -0.09], 2);
+  var map = L.map('map').setView([0, 0], 2);
 
   var layer = L.tileLayer.provider('Esri.WorldGrayCanvas');
 
