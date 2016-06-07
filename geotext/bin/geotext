@@ -80,11 +80,8 @@ def geocode(in_file, out_file):
 
         # Query the DSTK API.
         try:
-            loc = geocoder.geocode(row['toponym'])
-        except Exception as e:
-            print(e)
 
-        if loc:
+            loc = geocoder.geocode(row['toponym'])
 
             print(loc.point)
 
@@ -96,6 +93,9 @@ def geocode(in_file, out_file):
 
             # Write the result to the CSV.
             writer.writerow(row)
+
+        except Exception as e:
+            print(e)
 
 
 @geotext.command()
