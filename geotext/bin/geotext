@@ -4,9 +4,11 @@
 import os
 import click
 import csv
+import json
 
 from dotenv import load_dotenv, find_dotenv
 from polyglot.text import Text
+from geojson import Point, Feature, FeatureCollection
 from geopy.geocoders import GoogleV3
 
 
@@ -52,8 +54,7 @@ def extract_toponyms(in_file, out_file):
 @geotext.command()
 @click.argument('in_file', type=click.File('r'))
 @click.argument('out_file', type=click.File('w'))
-@click.option('--country', type=str)
-def geocode(in_file, out_file, country):
+def geocode(in_file, out_file):
 
     """
     Geocode toponyms in a CSV file.
@@ -98,13 +99,34 @@ def geocode(in_file, out_file, country):
 
 
 @geotext.command()
-def csv_to_geojson():
+@click.argument('in_file', type=click.File('r'))
+@click.argument('out_file', type=click.File('w'))
+def csv_to_geojson(in_file, out_file):
 
     """
     Convert a geocoded CSV to GeoJSON.
     """
 
-    print('geojson')
+    reader = csv.DictReader(in_file)
+
+    features = []
+    for row in reader:
+
+        lat = float(row.pop('latitude'))
+        lon = float(row.pop('longitude'))
+
+        point = Point((lon, lat))
+
+        feature = Feature(
+            geometry=point,
+            properties=row,
+        )
+
+        features.append(feature)
+
+    collection = FeatureCollection(features)
+
+    print(json.dumps(collection, indent=2), file=out_file)
 
 
 if __name__ == '__main__':
