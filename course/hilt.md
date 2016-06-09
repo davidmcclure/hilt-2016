@@ -16,7 +16,7 @@ We'll start out by looking at Neatline, a digital mapping framework developed at
 
 **Part 2: Spatial texts, Whitman**
 
-Next, we'll look at a set of extensions for Neatline that were developed to make it possible to create interactive spatial editions of text documents, a requirements that came up again and again in the process of using Neatline with faculty and students. We'll each take a stanza of "Salut au Monde" - one of Whitman's largest and most intricate "spatial catalogues" from _Leaves of Grass_ - and create a set of Neatline exhibits that plot out the locations (often delightfully fuzzy and imprecise) mentioned in the poem. At the end, we'll take all of the individual exhibits and merge them together into a single exhibit for the whole poem.
+Next, we'll look at a set of extensions for Neatline that were developed to make it possible to create interactive spatial editions of text documents, a requirement that came up again and again in the process of using Neatline with faculty and students. We'll each take a stanza of "Salut au Monde" - one of Whitman's largest and most intricate "spatial catalogues" from _Leaves of Grass_ - and create a set of Neatline exhibits that plot out the locations (often delightfully fuzzy and imprecise) mentioned in the poem. At the end, we'll take all of the individual exhibits and merge them together into a single exhibit for the whole poem.
 
 **Part 3: Data extraction, cleaning, and formatting**
 
@@ -38,7 +38,7 @@ So, to get started with our Neatline edition of Mianrd's Napoleon infographic.
 
 1. First, grab the raw image of the inforgraphic from Wikipedia - https://commons.wikimedia.org/wiki/File:Minard.png. Click on the preview to get the full-size version, and then right click, choose "Save Image As," and save it somewhere easy to find.
 
-1. Next, we'll download QGIS ("Quantum GIS"), an open-source GIS suite that provides much of the functionality offered more heavyweight (and expensive) solutions like ArcGIS. Go to http://www.qgis.org, click **Download Now**, and select the downloader for your operating system.
+1. Next, we'll download QGIS ("Quantum GIS"), an open-source GIS suite that provides much of the functionality offered by more heavyweight (and expensive) solutions like ArcGIS. Go to http://www.qgis.org, click **Download Now**, and select the downloader for your operating system.
 
 1. **MAC** If you're on Mac, you'll get taken to KyngChaos downloads page. Download the **QGIS 2.14.3-1** file and open up the DMG archive. Inside, you'll see four different `.pkg` files, labeled 1 to 4. QGIS is the final one, but you'll need to install each of these in order to get all of the required dependencies.
 
