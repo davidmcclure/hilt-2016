@@ -80,36 +80,40 @@ So - what's up with those ugly black borders around the image? When an image is 
 
 `gdalwarp -srcnodata 0 -dstalpha minard.tif minard-noborders.tif`
 
-1. Last, rename the final file so that includes your last name, which will make it easier to keep track of when we upload it to the web in the next step.
-
-`cp minard-noborders.tif minard-[your last name].tif`
-
 Now we've got a georectified and cleaned-up GeoTIFF, which can be brought into Neatline for annotation and display.
 
 ## Upload the georectified map to Geoserver
 
-Before we can import the map into Neatline, though, we first need to upload it to a special type of web server that dynamically splits the image up into smaller "tiles," whch can be laid on top of a regular base layer. We'll be using Geoserver, an open-source tiling server that sits behind the geospatial data repositories at places like UVa, Stanford, Harvard, and elsewhere. During development, Geoserver can be downloaded and run locally on your computer, but, so that we can publish our images onto the web, we're going to be using an instance of Geoserver hosted by AcuGIS, a company that provides hosting services for a range of GIS software packages (including Omeka and Neatline).
+Before we can import the map into Neatline, though, we first need to upload it to a special type of web server that dynamically splits the image up into smaller "tiles," which can be laid on top of a regular base layer. We'll be using GeoServer, an open-source tiling server that powers the spatial data repositories at places like UVa, Stanford, Harvard, and elsewhere. GeoServer hosting is often provided at an institutional level by universities - often through the library - and it's also possible to buy commercial hosting from providers like AcuGIS. For now, though, we can just download it onto our own computers and run a development instance of the server.
 
-1. First, we need to upload the file to the server that's running Geoserver. Go to http://cpanel.dclure.gis-cdn.net and log in with **dcluregi / HILT2016**.
+1. Go to http://geoserver.org/release/stable and download the release for your operating system.
 
-1. Click on **File Manager**. Find the row for the directory called "hilt" and double click on it.
+1. **MAC** Open the .dmg file and drag the GeoServer icon into the Applications folder. From Applications, run GeoServer and click on **Server > Start**.
 
-1. Click **Upload** and then **Select File** and find your `minard-[name].tif` file. Once it finishes uploading, click the **Go Back to "/home/dcluregi/hilt"** link.
+1. **WINDOWS** TODO
 
-Now that the file is uploaded to the server, we can register the layer in Geoserver.
+1. Once the server is running, you'll get taken to the login screen for the administrative console. Log in with **admin / geoserver**.
 
-1. Go to http://dclure.gis-cdn.net/geoserver and log in with **hilt / spatialdata**.
+Now, with GeoServer up and running, we can upload the georeferenced image.
 
 1. Click on **Workspaces** and then **Add new workspace**.
 
-1. Enter your last name into the "Name" field, and put some kind of URL into "Namespace URI" - a personal website, department homepage, etc, (Doesn't matter what - just has to be a valid URL.) Click **Submit** to create the new workspace.
+1. Enter `hilt` into the "Name" field, and put some kind of URL into "Namespace URI" - a personal website, department homepage, etc, (Doesn't matter what - just has to be a valid URL.) Click **Submit** to create the new workspace.
 
 1. Click on **Stores**, **Add new store**, and then **GeoTIFF**.
 
-1. Select the workspace you just created and `minard` in the "Data Source Name" field.
+1. Select the new `hilt` workspace you just created and enter `minard` in the "Data Source Name" field.
 
-1. Click **Browse...** next to the "URL" field, and then select **Home directory** from the dropdown at the top of the dialog. Click on the "hilt" directory, and then on the listing for your file. Click **Save** to create the new store.
+1. Click **Browse...** next to the "URL" field, and then select **Home directory** from the dropdown at the top of the dialog. Find the `Projects/minard` directory that we created before, and select the `minard-noborders.tif` file.
 
 1. From the next screen, click **Publish**.
 
+1. In the "Name" field, just enter `minard`.
+
 1. Scroll down to the "Coordinate Reference Systems" field set and click **Find...** next to "Declared SRS." Search for "900913" (hint - this looks like "Google," if you squint your eyes, which isn't a coincidence!) and click the **900913** link under "Code" for the "WGS84 / Google Mercator" listing.
+
+1. Click **Save** to add the new layer. To confirm that the layer is up and running, click on the **Layer Preview** link in the left column and find the `hilt:minard` layer. Click on the **OpenLayers** link to display the tiled layer in an interactive map.
+
+## Install Omeka + Neatline
+
+Ok - now we've got our map georeferenced and uploaded into a tile server that can broadcast the image out onto the web. Next, we'll install Omeka and Neatline into a local development sandbox, which is generally the easiest way to get up and running at the start of a new project. Once you've got something that you want to put on the web and share with others, it's easy to just copy the files and database from the local installation, move them onto a web-facing server, and pick up where you left off.
