@@ -280,10 +280,18 @@ First things first - I don't speak French, so let's transcribe the title and des
 
 1. To start, draw a long, skinny rectangle around the text of the title along the top of the image - click down on the map and release to lay a point. When you come to the last point, double-click to "seal" the shape and stop drawing new points.
 
+1. By default, opacity of the polygon is rather high, and makes it bit distracting when layered on top of the text. To make it easier on the eyes, click over into the **Style** tab and find the **Fill Color** option. Click on the input to open the color picker, and change the color to solid white. Do the same for the **Fill Color (Selected)** field, which controls the color of the shape when the cursor is hovered on top of it.
+
+1. We can do even better than this - what if, by default, the annotation were invisible, and only displayed when the reader pointed the cursor at the text? We can make this happen by dropping the **Fill Opacity** and **Stroke Opacity** down to 0, which makes the record effectively invisible until it's switched into "selected" mode when the cursor hovers on it.
+
+1. When the record looks good, click the **Save** button at the bottom of the screen to lock in the changes, and then close out the record with the **X** at the top of the form.
+
+1. Repeat this process for the byline, the date, and the description - for each, create a new record, trace out the text with a polygon, and set the styles.
+
+
 
 
 TODO:
-  - annotate title and description
   - plot kaunas and Moscow
   - trace neman
   - trace flowchart segments
