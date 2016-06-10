@@ -95,6 +95,6 @@ Next, we'll scaffold out the files needed to create a command-line utility calle
 
 ## Toponym extraction
 
-Now, we're ready to sketch in the logic for the entity extraction and geocoding. We'll walk through this together, but, for refrence, here's the complete code:
+Now, we're ready to sketch in the logic for the entity extraction and geocoding. We'll walk through this together, but here's the complete code for reference:
 
 https://github.com/davidmcclure/hilt-2016/blob/master/geotext/bin/geotext
