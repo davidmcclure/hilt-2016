@@ -28,14 +28,8 @@ First, we'll install the latest release of Python 3.
 
   ```
   ipython
-  click
   numpy
   polyglot
-  nltk
-  python-dotenv
-  geojson
-
-  -e git+https://github.com/geopy/geopy.git#egg=geopy
   ```
 
 1. Back in the terminal, run `pip install -r requirements.txt` **NOTE**: If you're on Mac, and this gives an error, run this command:
