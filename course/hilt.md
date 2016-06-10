@@ -349,18 +349,74 @@ Let's also make the line a bit thicker so that it's more noticeable. Scroll down
 
 1. As always, click **Save** to commit the changes and close the form with the **X** button.
 
-## Annotate the flowchart
+### Annotate the flowchart
 
 Last, we'll use Neatline's polygon-drawing tool to outline the flowchart boxes that Minard uses to visualize the gradual shrinking of the army over the course of the campaign.
 
-1. 
+1. Create a new record called "Invasion." Pan to the eastern end of the map and zoom in so that you can clearly see the outline of the flowchart.
 
+1. Click the Map tab and activate the **Draw Polygon** mode.
 
+1. Start by outlining the first segment in the flowchart, the initial force of 422,000 that crossed the Neman. Click one to lay down points on the first three corners of the shape, and then double-click on the fourth corner to freeze the polygon. Like with the line tool, you can use the **Modify Shape** tool to push around the vertices if you want to edit the shape.
 
+1. Once you're happy with the outline, click over to the **Style** tab and scroll down to the **Colors** section. Fiddle around with the color until you find something that fits in well with the color palette of Minard's map
 
+1. Then, drop down the **Fill Opacity** field to about 0.3, and change the Select Opacity to ~0.6. This makes it easy to see that there's an interactive annotation on top of Minard's image, but you can still see through to the image and base layer below.
 
+1. At this point, if you're feeling ambitious, you could go through and create separate records and annotations for each of the segments. To keep things quick, though I'm just going to outline all of the remaining segments in the eastbound flowchart with a single shape.
 
-TODO:
-  - plot kaunas and Moscow
-  - trace neman
-  - trace flowchart segments
+1. Once you've outlined the invasion flowchart, create a new record called "Retreat" and repeat the same process for the segments leading from Moscow back towards Kaunas.
+
+## Part 3: Change over time
+
+Last, we'll experiment with the basic mechanics of the functionality in Neatline that makes it possible to visualize how elements on maps change over time. First, we'll need to install the SIMILE Timeline extension for Neatline, which adds a timeline to the exhibit that can be populated with content in the same way that we’ve been adding records to the map.
+
+### Install and enable SIMILE Timeline
+
+1. Go back to http://omeka.org/add-ons/plugins/ and find the listing for NeatlineSimile. Click **Download v2.0.4**.
+
+1. Open the .zip file and copy (Command+C) the `NeatlineSimile` folder. Paste this into the `Applications/MAMP/htdocs/omeka/plugins` directory, alongside `Neatline`.
+
+1. In the Omeka admin, click **Plugins** and install Neatline SIMILE.
+
+1. Then, go back to the **Neatline** tab and find the listing for your exhibit. Click on the **Exhibit Settings** link to open the same form that we originally used to create the exhibit.
+
+1. Scroll down to the **Widgets** field. Click on the input and select the **SIMILE Timeline** option.
+
+1. Click **Save Exhibit**, which will take you back to the browse exhibits view. Click on the title of your exhibit to re-open the Neatline editor.
+
+### Configure the Timeline
+
+Next, let's customize the timeline's default focus and zoom level.
+
+1. Click the **Plugins** drop down at the top of the editing panel and select the **SIMILE Timeline** option.
+
+1. Enter "1812" into the **Default Date** field. This is the date that the timeline will automatically focus on when the exhibit starts.
+
+1. Select the "Month" option in the **Interval Unit** drop down. This has the effect of configuring the zoom level or granularity of the timeline - the unit used to delimit the horizontal axis.
+
+1. Drag the **Interval Pixels** down to around 80. This determines the width between the tick marks on the X-axis.
+
+1. Finally, set the **Tape Height** to 20. This sets the vertical height of the "span" graphics used to represent durations events on the timeline.
+
+### Plot the invasion on the timeline
+
+Once the timeline is configured, we can start adding records to it just like we added the vector annotations to the map. First, we'll add some date information to the two records that we used to represent the segments in Minard's flow chart.
+
+1. Open the "Invasion" record, click on the **Styles** tab, and scroll down to the **Dates** field set.
+
+1. Enter "1812-06-24" into **Start Date** and "1812-09-14" into **End Date**.
+
+1. Now go back to the top of the form and find the **Widgets** drop down. Add the record to the timeline by clicking the listing for **SIMILE Timeline**.
+
+1. Click **Save** at the bottom of the form, and the record will appear as a span between June and September.
+
+1. Do the same thing for the "Retreat" record - use "1812-10-18" as the **Start Date** and "1812-12-14" as the **End Date**, and save the record to update the timeline.
+
+### Toggle the map annotations with visibility intervals
+
+In addition to plotting the records on the timeline, we can also use the timeline as a mechanism to control which elements are visible on the map at any given moment. This makes it possible to string together complex time-series animations and progressions. To start, we'll add a second set of dates to the two records that control when the records should be displayed on the map:
+
+1. Open up the "Invasion" record and go back to the **Dates** field set under the **Style** tab. For now, just copy the value from the **Start Date** field into the **After Date** field and save the record. Then, drag the timeline back before June 24, 1812 - the corresponding annotation on the map disappears, and then reappears when the timeline is dragged back to the right of the threshold date.
+
+1. Likewise, copy the **End Date** value into the **Before Date** field. Now, when you drag the timeline past December 14, the map annotation disappears. When used together, the before and after dates make it possible to define a bounded window of time within which an object is visible on the map.
