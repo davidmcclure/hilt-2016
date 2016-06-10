@@ -24,9 +24,25 @@ First, we'll install the latest release of Python 3.
 
 1. Create a `requirements.txt` file, which will define our dependencies: `touch requirements.txt`
 
-1. Open up `requirements.txt` in Atom and put `ipython` on the first line. Save the file.
+1. Open up `requirements.txt` in Atom and enter these dependencies:
 
-1. Back in the terminal, run `pip install -r requirements.txt`
+  ```
+  ipython
+  click
+  numpy
+  polyglot
+  nltk
+  python-dotenv
+  geojson
+
+  -e git+https://github.com/geopy/geopy.git#egg=geopy
+  ```
+
+1. Back in the terminal, run `pip install -r requirements.txt` **NOTE**: If you're on Mac, and this gives an error, run this command:
+
+  `CFLAGS=-I/usr/local/opt/icu4c/include LDFLAGS=-L/usr/local/opt/icu4c/lib pip install pyicu`
+
+  And then run `pip install -r requirements.txt` again.
 
 1. Now, if you type `ipython`, you should get dropped into an interactive Python shell.
 
@@ -59,7 +75,7 @@ Next, we'll scaffold out the files needed to create a command-line utility calle
   )
   ```
 
-  The important part here is the last two lines - `packages` and `scripts` - which tell Python where to look for the code that we're going to write.
+  The important part here is the last two lines - `packages` and `scripts` - which tell Python where to find our code.
 
 1. Back on the command line, create a new directory called `bin` - `mkdir bin`
 
@@ -77,6 +93,8 @@ Next, we'll scaffold out the files needed to create a command-line utility calle
 
 1. Now, if you just run the command `geotext`, you should see - `Hello world!`
 
-## NER + geocoding
+## Toponym extraction
+
+Now, we're ready to sketch in the logic for the entity extraction and geocoding. We'll walk through this together, but, for refrence, here's the complete code:
 
 https://github.com/davidmcclure/hilt-2016/blob/master/geotext/bin/geotext
