@@ -274,11 +274,11 @@ First things first - I don't speak French, so let's transcribe the title and des
 
   The numbers of men present are represented by the widths of the colored zones at a rate of one millimeter for every ten-thousand men; they are further written across the zones. The information which has served to draw up the map has been extracted from the works of M. M. Thiers, of Segur, of Fezensac, of Chambray, and the unpublished diary of Jacob, pharmacist of the army since October 28th. In order to better judge with the eye the diminution of the army, I have assumed that the troops of prince Jerome and of Marshal Davoush who had been detached at Minsk and Moghilev and have rejoined around Orcha and Vitebsk, had always marched with the army.
 
-1. Click on **New Record** and enter in the full text of Minard's title into Neatline's "Title" field.
+1. Click on **New Record** and enter in the English text of Minard's title into Neatline's "Title" field.
 
-1. Click on the **Map** tab to display the geometry editing controls. Activate the **Draw Polygon** option and then move the cursor onto the map. Now that a drawing mode is activated, a little point will trail the cursor.
+1. Click on the **Map** tab to display the geometry editing controls. Select the **Draw Polygon** option and then move the cursor onto the map. Now that one of the drawing modes is activated, a little point will trail the cursor.
 
-1. To start, draw a long, skinny rectangle around the text of the title along the top of the image - click down on the map and release to lay a point. When you come to the last point, double-click to "seal" the shape and stop drawing new points.
+1. To start, draw a long, skinny rectangle around the text of the title along the top of the image. To start drawing the shape, put the cursor where you want to lay down the first point, click once, and then click again for each of the corners in the rectangle. When you come to the last point, double-click to "close" the shape and stop drawing new points. (It's always possible to modify geometries after the fact, so don't worry about being too precise on the first pass.)
 
 1. By default, opacity of the polygon is rather high, and makes it bit distracting when layered on top of the text. To make it easier on the eyes, click over into the **Style** tab and find the **Fill Color** option. Click on the input to open the color picker, and change the color to solid white. Do the same for the **Fill Color (Selected)** field, which controls the color of the shape when the cursor is hovered on top of it.
 
@@ -286,7 +286,76 @@ First things first - I don't speak French, so let's transcribe the title and des
 
 1. When the record looks good, click the **Save** button at the bottom of the screen to lock in the changes, and then close out the record with the **X** at the top of the form.
 
-1. Repeat this process for the byline, the date, and the description - for each, create a new record, trace out the text with a polygon, and set the styles.
+1. Repeat this process for the byline and date - create a new record, trace out the text with a polygon, and set the styles.
+
+1. For the description - which is longer, and might look a bit cramped if we put the whole thing in the title field - just enter the first couple words into the title, and then paste the rest into the "Description" field. This way, when the user hovers on the annotation on the map, the snippet in the title will appear, and the rest of the text will be displayed on click.
+
+1. When you're finished, close out of the last record and go back to the record browse view.
+
+### Plot the beginning of the invasion - Kaunas
+
+Next, let's add interactive annotations to the two endpoints of Minard's visualization - Kaunas in the west, and Moscow in the east.
+
+1. Pan to the western edge of Minard's map until you find Kaunas, right at the base of the first and largest of the boxes that represent the size of the Grande Army. Click on **New Record** and enter "Kaunas" in the Title field.
+
+1. Click on the **Map** tab to display the geometry editing controls. Activate the **Draw Point** option in the list of editing modes.
+
+1. Click once on Kaunas to lay down a single point. Once the point is in place, reactivate the default **Navigate** mode so that you don’t accidentally drop another point the next time you click on the map.
+
+1. Switch to the **Style** tab and scroll down to the **Dimensions** field set. Click on the **Point Radius** input and drag up to make the point a bit larger. As the value changes in the form, the point on the map will resize to preview the new value.
+
+1. Once you're done, click **Save** and go back to the list of records by clicking the **X** at the top of the form.
+
+### Plot the end of the invasion - Moscow
+
+Let’s do the same thing for Moscow. This time, though, we’ll use the point as a trigger to display an image and some descriptive text.
+
+1. Click on **New Record** again, enter "Moscow" into the **Title** field, and use the **Draw Point** tool to lay down a point on Moscow.
+
+1. Once the point is in place, click back to the **Text** tab. Next to the label on the Body field, click the **Edit HTML** button to open up a fullscreen text editor.
+
+1. To get some testing content, open up a new tab and go to the Wikipedia page for the French invasion of Russia (http://en.wikipedia.org/wiki/French_invasion_of_Russia) and scroll down to the "Fire of Moscow" section. Click on the painting on the left, and then click on the image in the pop-up window to open the raw image file. Then, right click on the image, click **Copy Image URL**, and then switch back to the tab with the Neatline editor.
+
+1. Click on the **Image** button and paste the image location into the URL input.
+
+1. Delete the value that gets automatically populated into the **Width** input (this can be useful if you want really precise control over the layout of the image, but for now we'll just let the browser do what it thinks is best).
+
+1. Click **OK** to insert the image into the document.
+
+1. Head back over to the Wikipedia page and copy the two paragraphs under the "Fire of Moscow" heading. Switch back into the editor and paste the content under the image, just like you would in a desktop text editor like Microsoft Word.
+
+1. Click **Minimize** to close the editor. Notice that the HTML markup generated by the text editor has been copied into the "Body" field.
+
+1. Click **Save** to lock in the changes and then close the form.
+
+### Outline the Neman River
+
+Next, let’s use the line-drawing tool to outline the Neman River on Minard’s map:
+
+1. Pan to the east end of the map and find the Neman river, which runs through the point that we placed on Kaunas. Click **New Record** and enter "Neman River" in the Title field.
+
+1. Click the **Map** tab and select **Draw** Line. Once the control is active, you can draw segmented lines on the map by clicking on the locations where you want the points to be. Like with the polygon tool - once all the points are in place, you can "close" the line by double-clicking at the location of the final point. In this case, start by clicking once where the river leaves the map to the north, and then move the cursor down and double click on the point where the river intersects with the top of Minard’s temperature graph. This will draw a straight line between the two points.
+
+1. Now, we'll trace out the actual path of the river by successively bisecting the line and dragging the points into position on the river. Click on the **Modify Shape** radio button and then click on the line that you just created on the map. Three control points will appear – two at the ends of the line (the points that we've already added) and a third, more transparent point in the middle of the line.
+
+1. Click the middle point and split the line into two segments by dragging the point towards the eastward bend in the river south of Kaunas.
+
+1. Continue bisecting the segments and refining the path until you have a good outline of the river. If you make a mistake and want to get rid of a point, hover the cursor over the point and press the "D" button on the keyboard.
+
+1. When you're finished, click the **Save** button at the bottom of the form.
+
+1. Now we have the path in position, but it's really hard to see because the default line color (black) blends in to the color of Minard’s original line. To fix that, click over to the **Style** tab and scroll down to the **Colors** field set. Click on the **Stroke Color** input to open a color-picker widget and choose some sort of bluish hue that goes well with the surrounding color scheme on the map.
+Let's also make the line a bit thicker so that it's more noticeable. Scroll down to the Stroke Width input and drag the value up to around 5 or 6.
+
+1. As always, click **Save** to commit the changes and close the form with the **X** button.
+
+## Annotate the flowchart
+
+Last, we'll use Neatline's polygon-drawing tool to outline the flowchart boxes that Minard uses to visualize the gradual shrinking of the army over the course of the campaign.
+
+1. 
+
+
 
 
 
