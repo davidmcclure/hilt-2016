@@ -144,11 +144,25 @@ Ok - now we've got our map georeferenced and uploaded into a tile server that ca
 
 First up we'll install MAMP, a free piece of software that automates the process of running a development "LAMP stack" (Linux, Apache, MySQL, PHP) server on your computer. There's a "pro" version that you have to pay money for, but the free version works just fine.
 
-1. Go to http://mamp.info/ and click on the "Download" links.
+1. Go to http://mamp.info/ and click on the **Download** link and download the version for your operating system.
+
+---
+
+**MAC**
 
 1. When the file finishes downloading, run the .pkg file, which will open up a regular Mac installer program. Click through the steps to install the package.
 
-1. Once MAMP is installed, you'll have a new folder in your `Applications` directory called `MAMP`. Open up that folder, and you'll see a listing for `MAMP`, which is the actual program that manages the server. Double-click on that to launch the configuration utility, and then click on **Start Servers** to spin up the server.
+1. Once MAMP is installed, you'll have a new folder in your `Applications` directory called `MAMP`. Open up that folder, and you'll see a listing for `MAMP`, which is the actual program that manages the server. Double-click on that to launch the configuration utility.
+
+**WINDOWS**
+
+1. Run the MAMP installer.
+
+1. Search for "mamp," and run the **MAMP** application.
+
+---
+
+1. Click on **Start Servers** to spin up the server. If you get a warning prompt (Windows), click **Allow Access**.
 
 ## Install Omeka
 
@@ -156,7 +170,11 @@ First up we'll install MAMP, a free piece of software that automates the process
 
 1. On the downloads page, click **Download Omeka 2.4.1**.
 
-1. Find the omeka-2.2.2.zip file in the `Downloads` directory and double click to uncompress it. You'll end up with a regular directory called `omeka-2.4.1`.
+---
+
+**MAC**
+
+1. Find the omeka-2.4.1.zip file in the `Downloads` directory and double click to uncompress it. You'll end up with a regular directory called `omeka-2.4.1`.
 
 1. Click on the folder that was extracted from the .zip archive and copy it to the clipboard by pressing Command+C.
 
@@ -164,15 +182,25 @@ First up we'll install MAMP, a free piece of software that automates the process
 
 1. Right click on the folder and click on **Get Info**. In the "Name and Extension" input, change `omeka-2.4.1` to just plain `omeka`. This isn't required, but it will make the URLs in your development environment a bit less cluttered.
 
-1. Open up a browser and go to `http://localhost:8888/MAMP`, the configuration home page for MAMP. At the top of the screen, select **Tools > phpMyAdmin**. phpMyAdmin is a configuraton interface for the MySQL database that will store the data that gets added to the Omeka site.
+**WINDOWS**
 
-1. First, we need to create a new database. Click on the **Databases** tab at the top of the screen, and find the **Create Database** input. Type omeka, and then hit **Create**.
+1. Find the omeka-2.4.1.zip file in the `Downloads` directory and double click to open it. Select the `omeka-2.4.1` directory inside of it, and copy it with Control+C.
+
+1. In the file browser, go to `C:\MAMP\htdocs`. Paste in the Omeka folder with Control+V.
+
+1. Right click on the new `omeka-2.4.1` folder and rename it to `omeka`.
+
+---
+
+1. Open up a browser and go to `http://localhost:8888/MAMP` (on Windows - http://localhost/MAMP), the configuration home page for MAMP. At the top of the screen, select **Tools > phpMyAdmin**. phpMyAdmin is a configuraton interface for the MySQL database that will store the data that gets added to the Omeka site.
+
+1. First, we need to create a new database. Click on the **Databases** tab at the top of the screen, and find the **Create Database** input. Type `omeka`, and then hit **Create**.
 
 1. Next, we'll create a user than can connect to the database. Click on the **Users** tab along the top, and then click the **Add user** link at the bottom.
 
 1. Type a name into the **User name** field. This can be anything you like - in development, I just use `omeka`, which is easy to remember.
 
-1. Click on the dropdown next to "Host" and select "Local."
+1. Click on the dropdown next to **Host** and select **Local**.
 
 1. Type a password into the "Password" field. On a production server, this should be a strong, secure password. But, in development I just use `omeka` again.
 
@@ -210,7 +238,9 @@ First up we'll install MAMP, a free piece of software that automates the process
 
   And, save this file to lock in the new settings.
 
-1. Last, we just need to run Omeka's web-based installer. Go to http://localhost:8888/omeka and fill out all of the required fields (Username, Password, Email, Administrator Email, and Site Title). Then, click the **Install** button, and, if all goes well, you'll see a page that says "Success!" with links to the public site and admin dashboard.
+1. Last, we just need to run Omeka's web-based installer. Go to http://localhost:8888/omeka (on Windows, http://localhost/omeka) and fill out all of the required fields - Username, Password, Email, Administrator Email, and Site Title. If you see a notice saying that the "fileinfo" module isn't loaded, just ignore it.
+
+1. Click the **Install** button, and, if all goes well, you'll see a page that says "Success!" with links to the public site and admin dashboard.
 
 1. Click on "Admin Dashboard," which is where we'll need to be for the last step.
 
