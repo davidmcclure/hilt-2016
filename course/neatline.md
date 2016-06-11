@@ -92,11 +92,29 @@ Before we can import the map into Neatline, though, we first need to upload it t
 
 1. Go to http://geoserver.org/release/stable and download the release for your operating system.
 
-1. **MAC** Open the .dmg file and drag the GeoServer icon into the Applications folder. From Applications, run GeoServer and click on **Server > Start**.
+---
 
-1. **WINDOWS** TODO
+**MAC**
 
-1. Once the server is running, you'll get taken to the login screen for the administrative console. Log in with **admin / geoserver**.
+1. Open the .dmg file and drag the GeoServer icon into the `Applications` folder.
+
+1. From `Applications`, run GeoServer and click on **Server > Start**.
+
+**WINDOWS**
+
+1. Go to http://java.com/en/download/, download the latest version of Java, and run the installer.
+
+1. Run the GeoServer installer.
+
+1. Search for "geoserver," and run **Start GeoServer**. Click **Allow Access** if a notice appears.
+
+1. Minimize the command prompt and leave it running in the background.
+
+---
+
+1. Once the server is running, open up a browser tab and go to http://localhost:8080/geoserver.
+
+1. Log in with **admin / geoserver**.
 
 Now, with GeoServer up and running, we can upload the georeferenced image.
 
