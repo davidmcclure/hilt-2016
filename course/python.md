@@ -10,23 +10,64 @@ At the end of the process, we'll have a nicely-formatted CSV file that can be im
 
 First, we'll install the latest release of Python 3.
 
+---
+
 **MAC**
 
-1. On Mac, the easiest way to do this is with a program called Homebrew, a package manager that automatically installs software on OSX. Go to http://brew.sh, and copy-and-paste the command on the front page into your terminal.
+1. On Mac, the easiest way to do this is with a program called Homebrew, a package manager that automatically installs software on OSX. Go to http://brew.sh, and copy-and-paste the command on the front page into your terminal:
+
+  ```sh
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  ```
 
 1. Install Python 3 with: `brew install python3`
 
-1. Change into the `Projects` directory that we created when georeferencing Minard's map: `cd ~/Projects`
+1. Change back into the `Projects` directory: `cd ~/Projects`
+
+**WINDOWS**
+
+1. Go to http://python.org/downloads and click **Download Python 3.5.1**.
+
+1. Once the installer finishes, open a command prompt and run these commands:
+
+  ```sh
+  setx PATH "%PATH%;C:\Users\<username>\AppData\Local\Programs\Python\Python35-32"
+  setx PATH "%PATH%;C:\Users\<username>\AppData\Local\Programs\Python\Python35-32\Scripts"
+  ```
+
+  This will make the `python` and `pip` (the Python package manager) executables available from the command line.
+
+1. Go to http://landinghub.visualstudio.com/visual-cpp-build-tools. Download and run the build tools installer.
+
+1. Change back into the `Projects` directory: `cd C:\Users\<username>\Projects`
+
+---
 
 1. Create a new directory called `geotext`, which is what we'll call our program: `mkdir geotext`
 
 1. Change down into the new directory with `cd geotext`.
 
-1. Now, we'll create a "virtual environment," a set of files that wraps up a copy of Python and a set of dependencies that will be specific to this individual project. Run: `pyvenv env` This will create a directory called `env` under `geotext`.
+Now, we'll create a "virtual environment," a set of files that wraps up a copy of Python and a set of dependencies that will be specific to this individual project.
+
+---
+
+**MAC**
+
+1. Run: `pyvenv env` This will create a directory called `env` under `geotext`.
 
 1. Activate the environment with: `. env/bin/activate`
 
 1. Create a `requirements.txt` file, which will define our dependencies: `touch requirements.txt`
+
+**WINDOWS**
+
+1. Run: `python -m venv env`
+
+1. Activate the environment with: `env\Scripts\activate.bat`
+
+1. Open Atom with `atom .` and create a new file called `requirements.txt`.
+
+---
 
 1. Open up `requirements.txt` in Atom and enter these dependencies:
 
@@ -45,8 +86,6 @@ First, we'll install the latest release of Python 3.
 1. Now, if you type `ipython`, you should get dropped into an interactive Python shell.
 
 **WINDOWS**
-
-TODO
 
 ## Create a simple command-line program
 
