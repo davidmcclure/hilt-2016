@@ -1,6 +1,10 @@
 # Data extraction, cleaning, and formatting
 
-Now that we've spent some time experimenting with tools designed for an interpretive, hand-crafted mode of GIS work, let's move to the other end of the spectrum and work with some larger data sets. As a test project, we're going to be extracting "toponyms" - place references - from novels. It would take weeks or months to do this by hand - we'd have to read the entire novel, highlight each of the place references by hand, and then manually everything into some kind of database at the end. Instead, we're going to write a simple Python script to do "named entity recognition" (NER), a process that automatically extracts words or phrases in a text that are proper names, locations, etc. This process is far from perfect, but it's much faster than doing things by hand, and it allows us to get a high-level snapshot of the spatial "fingerprint" of a text.
+Now that we've spent some time experimenting with tools designed for an interpretive, hand-crafted mode of GIS work, let's move to the other end of the spectrum and work with some larger data sets. As a test project, we're going to be extracting "toponyms" - place references - from novels. It would take weeks or months to do this by hand - we'd have to read the entire novel, highlight each of the place references by hand, and then manually everything into some kind of database at the end.
+
+Instead, we're going to write a simple Python script to do "named entity recognition" (NER), a process that automatically extracts words or phrases in a text that are proper names, locations, etc. This process is far from perfect, but it's much faster than doing things by hand, and it allows us to get a high-level snapshot of the spatial "fingerprint" of a text. Once we pull out the place names, we'll write a second script to pass them through a geocoding API, which takes the raw location names and converts them into latitude / longitude points that can be plotted on a map.
+
+At the end of the process, we'll have a nicely-formatted CSV file that can be imported into visualization tools like Google Fusion Tables and CartoDB.
 
 ## Set up a Python development environment
 
