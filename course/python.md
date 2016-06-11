@@ -52,7 +52,7 @@ Next, we'll scaffold out the files needed to create a command-line utility calle
 
 1. Open the file in Atom, and enter in some basic metadata about the project:
 
-  ```
+  ```python
   from setuptools import setup, find_packages
 
   setup(
@@ -79,7 +79,7 @@ Next, we'll scaffold out the files needed to create a command-line utility calle
 
 1. Open the new `geotext` file in Atom, and enter a basic hello world program as a test:
 
-  ```
+  ```python
   print('Hello world!')
   ```
 
