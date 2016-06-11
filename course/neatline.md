@@ -6,9 +6,21 @@ So, to get started with our Neatline edition of Mianrd's Napoleon infographic.
 
 1. Next, we'll download QGIS ("Quantum GIS"), an open-source GIS suite that provides much of the functionality offered by more heavyweight (and expensive) solutions like ArcGIS. Go to http://www.qgis.org/, click **Download Now**, and select the downloader for your operating system.
 
-1. **MAC** If you're on Mac, you'll get taken to KyngChaos downloads page. Download the **QGIS 2.14.3-1** file and open up the DMG archive. Inside, you'll see four different `.pkg` files, labeled 1 to 4. QGIS is the final one, but you'll need to install each of these in order to get all of the required dependencies.
+---
 
-1. **WINDOWS** TODO
+**MAC**
+
+1. If you're on Mac, you'll get taken to KyngChaos downloads page. Download the **QGIS 2.14.3-1** file and open up the DMG archive.
+
+1. Open the DMG file. Inside, you'll see four different `.pkg` files, labeled 1 to 4. QGIS is the final one, but you'll need to install each of these in order to get all of the required dependencies.
+
+**WINDOWS**
+
+1. On the downloads page, click **QGIS Standalone Installer Version 2.14 (64 bit)**.
+
+1. When the download finishes, open the .exe file to run the installer.
+
+---
 
 1. Once the install finishes, open up QGIS. First, we need to add a modern-geography base layer to QGIS as a baseline to georeference against. The easiest way to do this is to install a plugin for QGIS called QuickMapServices. Open the plugins manager by clicking on **Plugins > Manage and Install Plugins**.
 
@@ -26,11 +38,25 @@ So, to get started with our Neatline edition of Mianrd's Napoleon infographic.
 
 1. Repeat this process for Moscow, on the other side of the image - click once right on the meeting point between the beige and black flowchart segments, click **From map canvas**, find Moscow on the base layer, and click on it to lock in the association. Now, with two points, we've given the georeferenced enough information to position, scale, and rotate Minard's image so that it roughly lines up with the corresponding geography on the base layer. Before we export the rectified image, though, let's create a directory to house the various files we'll be working with on this project.
 
-1. **MAC** Click on the search button at the top right of the screen, search for "terminal," and open up the Terminal application. I generally like to organize things into a top-level `Projects` directory in my user's home directory. If you don't already have something like this, go ahead and create this directory with: `mkdir Projects`. Then, change down into the new directory with `cd Projects`, and create a sub-directory called `minard` with `mkdir minard`.
+---
 
-1. **WINDOWS** TODO
+**MAC**
 
-Click on the yellow geat button to open the "Transformation Settings" dialog.
+1. Click on the search button at the top right of the screen, search for "terminal," and open up the **Terminal** application. First, create general-purpose `Projects` directory with `mkdir Projects`.
+
+1. Change down into the new directory with `cd Projects`, and create a sub-directory called `minard` with `mkdir minard`.
+
+**WINDOWS**
+
+1. In the "Cortana" search box, search for "command," and open the **Command Prompt**.
+
+1. Create a `Projects` directory with `mkdir Projects`.
+
+1. Change down into the new directory with `cd Projects`, and create a sub-directory called `minard` with `mkdir minard`.
+
+---
+
+1. Back in georeferencer, click on the yellow gear button to open the "Transformation Settings" dialog.
 
 1. In "Transformation type," choose "Helmert."
 
@@ -42,7 +68,19 @@ Click on the yellow geat button to open the "Transformation Settings" dialog.
 
 So - what's up with those ugly black borders around the image? When an image is georeferenced, it often ends up getting rotated away from its original orientation, as was the case here. In the final image, QGIS will fill in the gaps between the image and the containing rectangle with "0-value" pixels, which, annoyingly, results in the black borders around the image when it gets displayed on a map. We can fix this, though, by using a command-line utility called GDAL to replace these black pixels with transparent pixels, which gets rid of the borders. GDAL is great - it's kind of like a swiss-army knife for working with spatial data, and comes in handy in lots of different contexts.
 
-1. Use this `gdalwarp` command to strip off the black borders:
+---
+
+**WINDOWS**
+
+1. GDAL is automatically installed with QGIS on Mac, but on Windows we have to install it separately. Go to http://trac.osgeo.org/osgeo4w/wiki and download the **64 bit** OSGeo4W network installer.
+
+1. Run the installer, and then search for "osgeo" in the search bar. Open **OSGeo4W Shell**.
+
+1. Change down into the `minard` directory: `cd Users\<username>\Projects\minard`
+
+---
+
+1. Use the `gdalwarp` command to strip off the black borders:
 
 `gdalwarp -srcnodata 0 -dstalpha minard.tif minard-noborders.tif`
 
