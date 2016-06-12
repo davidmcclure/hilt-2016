@@ -12,8 +12,6 @@ So, to get started with our Neatline edition of Mianrd's Napoleon infographic.
 
 1. If you're on Mac, you'll get taken to KyngChaos downloads page. Download the **QGIS 2.14.3-1** file and open up the DMG archive.
 
-  ![](images/mac-download-qgis.jpg)
-
 1. Open the DMG file. Inside, you'll see four different `.pkg` files, labeled 1 to 4. QGIS is the final one, but you'll need to install each of these in order to get all of the required dependencies.
 
 **WINDOWS**
@@ -28,13 +26,23 @@ So, to get started with our Neatline edition of Mianrd's Napoleon infographic.
 
 1. Search for "QuickMapServices," click the row, and then click **Install**.
 
+  ![](images/neatline/install-quickmapservices.jpg)
+
 1. Close out of the plugins manager and click on the **Web > QuickMapServices > OSM > OSM Mapnick**. This will add a basic OpenStreetMap base layer to the project.
+
+  ![](images/neatline/add-osm-layer.jpg)
 
 1. Now, the georeferencing. Click on **Raster > Georeferencer > Georeferencer**.
 
+  ![](images/neatline/open-georeferencer.jpg)
+
 1. Click on the right-most button in the main menu bar with the green "+" icon and select the image of Minard's infographic that we downloaded from Wikipedia. In the "Coordinate Reference System Selector" window that appears, leave the defaults as is (WGS 84 / Pseudo Mercator) and click OK.
 
+  ![](images/neatline/open-minard-file.jpg)
+
 1. Now, to georectify the image, we just have to lay down a set of control points that link locations on Minard's map with spatial coordinates on the modern base layer. Click on the "Add Point" button, and then click once on the image just to the left of the "Kowno" label on the left side of the image.
+
+  ![](images/neatline/lay-kaunas-point.jpg)
 
 1. In the window that appears, click on **From map canvas**. The georectifier will disappear, showing the OpenStreetMap in the QGIS project. Hold down the space bar and move the cursor to drag the map over to Kaunas in the middle of modern-day Lithuania. Click once on the middle of the city to lay down a corresponding point on the map.
 
@@ -64,9 +72,13 @@ So, to get started with our Neatline edition of Mianrd's Napoleon infographic.
 
 1. Click the "..." button next to "Output Raster," find the `minard` dierctory that we created above, and enter `minard` as the name for the exported file.
 
+  ![](images/neatline/transform-settings.jpg)
+
 1. Click **OK** to save the settings, and click the "play" button to export the file.
 
 1. Now, we can open up the exported image in QGIS and check the rectification. Go back to regular QGIS and click the "Add Raster Layer" button in the vertical toolbar on the left. Find the `~/Projects/minard` directory and select the new `minard.tif` produced by the Georeferencer. Click **Open**, and the rectified image will appear on the map.
+
+  ![](images/neatline/preview-black-borders.jpg)
 
 So - what's up with those ugly black borders around the image? When an image is georeferenced, it often ends up getting rotated away from its original orientation, as was the case here. In the final image, QGIS will fill in the gaps between the image and the containing rectangle with "0-value" pixels, which, annoyingly, results in the black borders around the image when it gets displayed on a map. We can fix this, though, by using a command-line utility called GDAL to replace these black pixels with transparent pixels, which gets rid of the borders. GDAL is great - it's kind of like a swiss-army knife for working with spatial data, and comes in handy in lots of different contexts.
 
@@ -124,11 +136,15 @@ Now, with GeoServer up and running, we can upload the georeferenced image.
 
 1. Enter `hilt` into the "Name" field, and put some kind of URL into "Namespace URI" - a personal website, department homepage, etc, (Doesn't matter what - just has to be a valid URL.) Click **Submit** to create the new workspace.
 
+  ![](images/neatline/create-workspace.jpg)
+
 1. Click on **Stores**, **Add new store**, and then **GeoTIFF**.
 
 1. Select the new `hilt` workspace you just created and enter `minard` in the "Data Source Name" field.
 
 1. Click **Browse...** next to the "URL" field, and then select **Home directory** from the dropdown at the top of the dialog. Find the `Projects/minard` directory that we created before, and select the `minard-noborders.tif` file.
+
+  ![](images/neatline/select-store-file.jpg)
 
 1. From the next screen, click **Publish**.
 
@@ -136,7 +152,13 @@ Now, with GeoServer up and running, we can upload the georeferenced image.
 
 1. Scroll down to the "Coordinate Reference Systems" field set and click **Find...** next to "Declared SRS." Search for "900913" (hint - this looks like "Google," if you squint your eyes, which isn't a coincidence!) and click the **900913** link under "Code" for the "WGS84 / Google Mercator" listing.
 
+  ![](images/neatline/declared-srs.jpg)
+
+1. In "SRS handling," make sure **Force declared** is selected.
+
 1. Click **Save** to add the new layer. To confirm that the layer is up and running, click on the **Layer Preview** link in the left column and find the `hilt:minard` layer. Click on the **OpenLayers** link to display the tiled layer in an interactive map.
+
+  ![](images/neatline/preview-layer.jpg)
 
 # Install Omeka + Neatline
 
