@@ -26,11 +26,11 @@ Fusion tables makes it possible to make some simple edits to the appearance of t
 
 1. In the "Marker Icon" section, click the dropdown for **Use one icon**, change the selection, and click **Save**. This will change the appearance of all the points in bulk.
 
-1. What if we wanted to get a rough sense of the progression of the toponyms over the course of the text, the movement from start to finish? We can start to get an approximation of this by grouping the points into buckets according to the `start` attribute - which captures their offset position in the text. Go back to **Change feature styles** and then click into the **Buckets** tab.
+1. What if we wanted to get a rough sense of the progression of the toponyms over the course of the text, the movement from start to finish? We can start to get an approximation of this by grouping the points into buckets according to the `offset` attribute - which captures their offset position in the text. Go back to **Change feature styles** and then click into the **Buckets** tab.
 
 1. Click on the **Divide into...** option, and select **5** buckets.
 
-1. In **Column**, select `start`, and then click the **use this range** link.
+1. In **Column**, select `offset`, and then click the **use this range** link.
 
 1. Click **Save** to apply the change. Now, the points will be grouped into five buckets, each representing a fifth of the text. This is a step forward, but not great, since there colors don't do much to show the ordering of the buckets.
 

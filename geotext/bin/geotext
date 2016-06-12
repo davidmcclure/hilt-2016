@@ -25,7 +25,7 @@ def ner_to_csv(in_file, out_file):
 
     tree = BeautifulSoup(in_file.read(), 'html.parser')
 
-    cols = ['toponym', 'start']
+    cols = ['toponym', 'offset']
     writer = csv.DictWriter(out_file, cols)
     writer.writeheader()
 
@@ -33,7 +33,7 @@ def ner_to_csv(in_file, out_file):
 
         writer.writerow(dict(
             toponym=loc.text,
-            start=i,
+            offset=i,
         ))
 
 

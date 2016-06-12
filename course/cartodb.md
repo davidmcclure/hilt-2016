@@ -18,7 +18,7 @@ Next we'll look at CartoDB, which, in many ways, is like a much more feature-ric
 
 1. Click on a point on the map. At first, you'll see a notice saying _You haven’t selected any fields to be shown in the infowindow._ Click on the **Select fields** link.
 
-1. In the right panel, under the **Click** tab, flip on the toggle switches for `toponym` and `start`.
+1. In the right panel, under the **Click** tab, flip on the toggle switches for `toponym` and `offset`.
 
 1. In the **Hover** tab, flip on `toponym`. Now, when you hover the cursor over a point, the place name will automatically show, and when you click, the toponym and the start offset will be displayed in the bubble.
 
@@ -36,7 +36,7 @@ Now, let's use some of CartoDB's built-in "wizards" to change the display format
 
 1. Last, activate the **Choropleth** wizard, which makes it possible to bucket the data points into groups along a particular axis and color the groups accordingly.
 
-1. In **Column**, select `start`.
+1. In **Column**, select `offset`.
 
 1. In **Color Ramp**, pick a color scheme that makes it easy to see a progression, like the white-to-green palette. Now, since we have more control over the colors used to mark the groups, it's possible to get a better sense of the spatial _movement_ of the text than we were able to get in Fusion Tables.
 
@@ -48,9 +48,9 @@ But, CartoDB can do even better than this with the "Torque" wizard.
 
 1. Flip on the **Cumulative** option.
 
-1. Under **Time Column**, select `start`.
+1. Under **Time Column**, select `offset`.
 
-1. Now, CartoDB will animate the sequencing of the points, ordered by the value in the `start` column. This will play on repeat by default, but it's also possible to click and drag on the timeline to speed it up or reverse it.
+1. Now, CartoDB will animate the sequencing of the points, ordered by the value in the `offset` column. This will play on repeat by default, but it's also possible to click and drag on the timeline to speed it up or reverse it.
 
 ## Annotate and export the map.
 
