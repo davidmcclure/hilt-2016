@@ -89,6 +89,15 @@ Next, we'll install Node.js, a server side Javascript runtime that will make it 
 
 1. Refresh the page in the browser, and a little window should appear with "HILT 2016".
 
+## Create the map
+
+1. In `index.html`, get rid of the `<h1>` tag inside of `<body>` and add an empty container element for the map:
+
+  ```html
+  <body>
+    <div id="map"></div>
+  </body>
+  ```
 
 
 - add map markup
