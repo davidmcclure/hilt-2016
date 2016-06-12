@@ -6,13 +6,37 @@ Instead, we're going to use a piece of software called the Stanford Named Entity
 
 At the end of the process, we'll have a nicely-formatted CSV file that can be imported into visualization tools like Google Fusion Tables and CartoDB.
 
+TODO: Java on osx
+
 ## Install the Stanford Named Entity Recognizer
 
 1. Go to http://nlp.stanford.edu/software/CRF-NER.shtml#Download and click on **Download Stanford Named Entity Recognizer version 3.6.0**.
 
 1. Open the zip file and copy the `stanford-ner-2015-12-09` folder to the `Projects` directory.
 
-TODO
+1. On the command line, change down into `stanford-ner-2015-12-09`.
+
+1. Start the NER application with: `java -jar stanford-ner.jar`. This will open the application in a separate window. Leave the command line program running in the background.
+
+## Extract entities from a novel
+
+1. Head over to http://www.gutenberg.org/ (or anywhere else on the web with full-text documents of interest) and find some kind of interesting text to work with. Try to use something that will have a lot of interesting place references. I'll use Jules Verne's _Around the World in Eighty Days_, which should have plenty!
+
+1. Get a URL to a web page that just contains the raw text of the document. Eg, `http://www.gutenberg.org/cache/epub/103/pg103.txt`.
+
+1. Go back to the NER application and click **File > Load URL**. Paste in the URL.
+
+1. Load the model file - click on **Classifier > Load CRF From File**.
+
+1. In the file browser, find the `stanford-ner-2015-12-09` folder and open up "classifiers." Select the **english.all.3class.distsim.crf.ser.gz** file and click **Open**.
+
+1. Click **Run NER** to run the model. Depending on the length of the text, this should take 10-20 seconds. When it's done, you should see colored highlights on entities in the text.
+
+1. Save a tagger version of the file. Click **File > Save Tagged File As** and save the file back into the `stanford-ner-2015-12-09` directory.
+
+1. In Atom, open up the file and take a look at the markup that the NER generated. The place names are now wrapped in `<LOCATION>` tags.
+
+So, now we know where the toponyms are in the text, but that's it. To plot the place names on a map, we need to pull the individual `<LOCATION>` tags out of the text and link them up with longitude / latitude coordinates. This kind of data transformation / formatting work is a great fit for a programming language like Python.
 
 ## Set up a Python development environment
 
@@ -71,59 +95,135 @@ Now, we'll create a "virtual environment," a set of files that wraps up a copy o
 
 ---
 
-1. Open up `requirements.txt` in Atom and enter `ipython` on the first line.
+1. Open up `requirements.txt` in Atom and list out these dependencies, each on a separate line:
+
+  ```
+  ipython
+  click
+  bs4
+  geopy
+  ```
 
 1. Then, run `pip install -r requirements.txt` to install the dependencies.
 
 1. Now, if you type `ipython`, you should get dropped into an interactive Python shell.
 
-****TODO: stanford NER
+## Extract the toponyms into a CSV file
 
-## Create a simple command-line program
+The first step - we need to pull out the `<LOCATION>` tags and put them into a CSV file, which will make it possible to load the data into tools like Google Fusion Tables and CartoDB. We'll do this by creating a custom command line program.
 
-Next, we'll scaffold out the files needed to create a command-line utility called `geotext`, which we'll use as a point entry for a set of scripts to extract place names, geocode them, and wrangle the data into different formats.
+1. In the `geotext` directory, create a new file to hold the code: `touch geotext.py`
 
-1. In the `geotext` directory, add a file called `setup.py`: `touch setup.py`
-
-1. Open the file in Atom, and enter in some basic metadata about the project:
+1. Here's the code for a command that converts the raw NER output to a CSV:
 
   ```python
-  from setuptools import setup, find_packages
+  import click
+  import csv
 
-  setup(
+  from bs4 import BeautifulSoup
 
-      name='geotext',
-      version='0.1.0',
-      description='Extract toponyms from plain text.',
-      license='MIT',
-      author='David McClure',
-      author_email='dclure@stanford.edu',
-      packages=find_packages(),
-      scripts=['bin/geotext'],
 
-  )
+  @click.group()
+  def geotext():
+      pass
+
+
+  @geotext.command()
+  @click.argument('in_file', type=click.File('r'))
+  @click.argument('out_file', type=click.File('w'))
+  def ner_to_csv(in_file, out_file):
+
+      """
+      Extract tagged toponyms from a text file.
+      """
+
+      tree = BeautifulSoup(in_file.read(), 'html.parser')
+
+      cols = ['toponym', 'offset']
+      writer = csv.DictWriter(out_file, cols)
+      writer.writeheader()
+
+      for i, loc in enumerate(tree.select('location')):
+
+          writer.writerow(dict(
+              toponym=loc.text,
+              offset=i,
+          ))
+
+  if __name__ == '__main__':
+      geotext()
   ```
 
-  The important part here is the last two lines - `packages` and `scripts` - which tell Python where to find our code.
+1. Once we've got the code in place, go back to the command line and run `python geotext.py`. You should see a help message like:
 
-1. Back on the command line, create a new directory called `bin` - `mkdir bin`
+  ```sh
+  Usage: geotext.py [OPTIONS] COMMAND [ARGS]...
 
-1. Create a new file in that directory called `geotext` - `touch bin/geotext`
+  Options:
+    --help  Show this message and exit.
 
-1. Set the permissions on the file to make it executable - `chmod 755 bin/geotext`
-
-1. Open the new `geotext` file in Atom, and enter a basic hello world program as a test:
-
-  ```python
-  print('Hello world!')
+  Commands:
+    geocode     Geocode toponyms in a CSV file.
+    ner_to_csv  Extract tagged toponyms from a text file.
   ```
 
-1. Back on the command line, install the program with: `python setup.py develop`
+1. Now, let's pull out the toponyms. Run: `python geotext.py <path to NER file> toponyms.csv`. When it finishes, open up the new `toponyms.csv` file - you should have a CSV with the contents of each of the `<LOCATION>` files, along with the `offset` index.
 
-1. Now, if you just run the command `geotext`, you should see - `Hello world!`
+## Geocode the toponyms
 
-## Toponym extraction
+Now, we'll write another little script to geocode each row in this file.
 
-Now, we're ready to sketch in the logic for the entity extraction and geocoding. We'll walk through this together, but here's the complete code for reference:
+1. Go back into `geotext.py`, and add the second command below the `ner_to_csv` function:
 
-https://github.com/davidmcclure/hilt-2016/blob/master/geotext/bin/geotext
+```python
+from geopy.geocoders import GoogleV3
+
+
+@geotext.command()
+@click.argument('in_file', type=click.File('r'))
+@click.argument('out_file', type=click.File('w'))
+def geocode(in_file, out_file):
+
+    """
+    Geocode toponyms in a CSV file.
+    """
+
+    reader = csv.DictReader(in_file)
+
+    geocoder = GoogleV3(
+        domain='dstk.dclure.org',
+        timeout=10,
+        scheme='http',
+    )
+
+    # Add lon/lat fields to the CSV.
+    cols = reader.fieldnames + ['latitude', 'longitude']
+
+    writer = csv.DictWriter(out_file, cols)
+    writer.writeheader()
+
+    for row in reader:
+
+        print(row['toponym'])
+
+        # Query the DSTK API.
+        try:
+
+            loc = geocoder.geocode(row['toponym'])
+
+            print(loc.point)
+
+            # Merge in the coordinates.
+            row.update(dict(
+                latitude=loc.latitude,
+                longitude=loc.longitude,
+            ))
+
+            # Write the result to the CSV.
+            writer.writerow(row)
+
+        except Exception as e:
+            print(e)
+```
+
+1. Back on the command line, run this new command, passing in the CSV that was produced by the first command, and saving the result to a second CSV. Eg: `python geotext.py toponyms.csv toponyms-geocoded.csv`. This will take 2-3 minutes to run, since a separate request has to be made for each item.
