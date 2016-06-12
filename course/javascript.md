@@ -140,102 +140,102 @@ Now, we're ready to write the code.
 
 1. The final `script.js` file:
 
-```js
-function createMap(json) {
+  ```js
+  function createMap(json) {
 
-  // ** Map
+    // ** Map
 
-  var map = L.map('map').setView([0, 0], 2);
+    var map = L.map('map').setView([0, 0], 2);
 
-  var layer = L.tileLayer.provider('Esri.WorldGrayCanvas');
+    var layer = L.tileLayer.provider('Esri.WorldGrayCanvas');
 
-  map.addLayer(layer)
+    map.addLayer(layer)
 
-  var markers = []
+    var markers = []
 
-  // Loop through the points.
-  _.each(json.features, function(f) {
+    // Loop through the points.
+    _.each(json.features, function(f) {
 
-    var lat = f.geometry.coordinates[1];
-    var lon = f.geometry.coordinates[0];
+      var lat = f.geometry.coordinates[1];
+      var lon = f.geometry.coordinates[0];
 
-    // Create the marker.
-    var marker = L.circleMarker([lat, lon], {
-      start: Number(f.properties.start),
-      radius: 5,
-      className: 'toponym',
-    });
+      // Create the marker.
+      var marker = L.circleMarker([lat, lon], {
+        start: Number(f.properties.start),
+        radius: 5,
+        className: 'toponym',
+      });
 
-    // Attach the tooltip.
-    marker.bindPopup(f.properties.toponym);
+      // Attach the tooltip.
+      marker.bindPopup(f.properties.toponym);
 
-    map.addLayer(marker);
-    markers.push(marker);
-
-  });
-
-  // ** Slider
-
-  var input = $('#slider');
-
-  // Set the last offset as the slider max value.
-  var maxOffset = _.last(json.features).properties.start;
-  input.attr('max', maxOffset);
-
-  // When the slider is moved:
-  input.on('input', function() {
-
-    var val = input.val();
-
-    _.each(markers, function(m) {
-
-      // Show the marker if the slider is dragged beyond it's offset.
-      if (m.options.start < val) {
-        map.addLayer(m);
-      }
-
-      // Otherwise, hide it.
-      else {
-        map.removeLayer(m);
-      }
+      map.addLayer(marker);
+      markers.push(marker);
 
     });
 
+    // ** Slider
+
+    var input = $('#slider');
+
+    // Set the last offset as the slider max value.
+    var maxOffset = _.last(json.features).properties.start;
+    input.attr('max', maxOffset);
+
+    // When the slider is moved:
+    input.on('input', function() {
+
+      var val = input.val();
+
+      _.each(markers, function(m) {
+
+        // Show the marker if the slider is dragged beyond it's offset.
+        if (m.options.start < val) {
+          map.addLayer(m);
+        }
+
+        // Otherwise, hide it.
+        else {
+          map.removeLayer(m);
+        }
+
+      });
+
+    });
+
+    input.trigger('input');
+
+  }
+
+
+  // Load the point data.
+  $(function() {
+    $.getJSON('data/80d.geojson', createMap);
   });
-
-  input.trigger('input');
-
-}
-
-
-// Load the point data.
-$(function() {
-  $.getJSON('data/80d.geojson', createMap);
-});
-```
+  ```
 
 1. And, the final `style.css` file:
 
-```css
-body {
-  margin: 0;
-  background: whitesmoke;
-}
+  ```css
+  body {
+    margin: 0;
+    background: whitesmoke;
+  }
 
-#map {
-  width: 100vw;
-  height: 100vh;
-}
+  #map {
+    width: 100vw;
+    height: 100vh;
+  }
 
-#slider {
-  position: fixed;
-  top: 1em;
-  right: 1em;
-  width: 30%;
-}
+  #slider {
+    position: fixed;
+    top: 1em;
+    right: 1em;
+    width: 30%;
+  }
 
-path.toponym {
-  stroke-width: 0;
-  fill: rebeccapurple;
-}
-```
+  path.toponym {
+    stroke-width: 0;
+    fill: rebeccapurple;
+  }
+  ```
