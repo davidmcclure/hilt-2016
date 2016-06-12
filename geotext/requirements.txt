@@ -6,5 +6,5 @@ polyglot
 nltk
 python-dotenv
 geojson
-
--e git+https://github.com/geopy/geopy.git#egg=geopy
+geopy
+ner

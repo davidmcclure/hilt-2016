@@ -2,7 +2,7 @@
 
 Now that we've spent some time experimenting with tools designed for an interpretive, hand-crafted mode of GIS work, let's move to the other end of the spectrum and work with some larger data sets. As a test project, we're going to be extracting "toponyms" - place references - from novels. It would take weeks or months to do this by hand - we'd have to read the entire novel, highlight each of the place references by hand, and then manually everything into some kind of database at the end.
 
-Instead, we're going to write a simple Python script to do "named entity recognition" (NER), a process that automatically extracts words or phrases in a text that are proper names, locations, etc. This process is far from perfect, but it's much faster than doing things by hand, and it allows us to get a high-level snapshot of the spatial "fingerprint" of a text. Once we pull out the place names, we'll write a second script to pass them through a geocoding API, which takes the raw location names and converts them into latitude / longitude points that can be plotted on a map.
+Instead, we're going to use a piece of software called the Stanford Named Entity Recognizer to automatically pick out words or phrases in a text that are proper names. Then, we'll write a simple Python script that passes the extracted toponyms through a geocoding API, which takes the raw location names and converts them into latitude / longitude points that can be plotted on a map.
 
 At the end of the process, we'll have a nicely-formatted CSV file that can be imported into visualization tools like Google Fusion Tables and CartoDB.
 
@@ -14,11 +14,7 @@ First, we'll install the latest release of Python 3.
 
 **MAC**
 
-1. On Mac, the easiest way to do this is with a program called Homebrew, a package manager that automatically installs software on OSX. Go to http://brew.sh, and copy-and-paste the command on the front page into your terminal:
-
-  ```sh
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-  ```
+1. On Mac, the easiest way to do this is with a program called Homebrew, a package manager that automatically installs software on OSX. Go to http://brew.sh, and copy-and-paste the command on the front page into your terminal.
 
 1. Install Python 3 with: `brew install python3`
 
@@ -36,8 +32,6 @@ First, we'll install the latest release of Python 3.
   ```
 
   This will make the `python` and `pip` (the Python package manager) executables available from the command line.
-
-1. Go to http://landinghub.visualstudio.com/visual-cpp-build-tools. Download and run the build tools installer.
 
 1. Change back into the `Projects` directory: `cd C:\Users\<username>\Projects`
 
@@ -69,23 +63,13 @@ Now, we'll create a "virtual environment," a set of files that wraps up a copy o
 
 ---
 
-1. Open up `requirements.txt` in Atom and enter these dependencies:
+1. Open up `requirements.txt` in Atom and enter `ipython` on the first line.
 
-  ```
-  ipython
-  numpy
-  polyglot
-  ```
-
-1. Back in the terminal, run `pip install -r requirements.txt` **NOTE**: If you're on Mac, and this gives an error, run this command:
-
-  `CFLAGS=-I/usr/local/opt/icu4c/include LDFLAGS=-L/usr/local/opt/icu4c/lib pip install pyicu`
-
-  And then run `pip install -r requirements.txt` again.
+1. Then, run `pip install -r requirements.txt` to install the dependencies.
 
 1. Now, if you type `ipython`, you should get dropped into an interactive Python shell.
 
-**WINDOWS**
+****TODO: stanford NER
 
 ## Create a simple command-line program
 
