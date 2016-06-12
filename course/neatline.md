@@ -220,6 +220,8 @@ First up we'll install MAMP, a free piece of software that automates the process
 
 1. First, we need to create a new database. Click on the **Databases** tab at the top of the screen, and find the **Create Database** input. Type `omeka`, and then hit **Create**.
 
+  ![](images/neatline/create-database.jpg)
+
 1. Next, we'll create a user than can connect to the database. Click on the **Users** tab along the top, and then click the **Add user** link at the bottom.
 
 1. Type a name into the **User name** field. This can be anything you like - in development, I just use `omeka`, which is easy to remember.
@@ -231,6 +233,8 @@ First up we'll install MAMP, a free piece of software that automates the process
 1. Re-type the password in the last field.
 
 1. In the "Global privileges" panel at the bottom of the page, just click the **Check All** input. This basically makes the user into a "super user" who can do anything.
+
+  ![](images/neatline/create-user.jpg)
 
 1. Next, we need to tell Omeka where to find the database. Go back to the `omeka` folder in Finder, open it up, and open the `db.ini` file. **Note**: If you don't already have some kind of text editor for editing source code, go to https://atom.io/ and download Atom, a really nice, unobtrusive code editor with lots of cool features.
 
@@ -264,6 +268,8 @@ First up we'll install MAMP, a free piece of software that automates the process
 
 1. Last, we just need to run Omeka's web-based installer. Go to http://localhost:8888/omeka (on Windows, http://localhost/omeka) and fill out all of the required fields - Username, Password, Email, Administrator Email, and Site Title. If you see a notice saying that the "fileinfo" module isn't loaded, just ignore it.
 
+  ![](images/neatline/create-user.jpg)
+
 1. Click the **Install** button, and, if all goes well, you'll see a page that says "Success!" with links to the public site and admin dashboard.
 
 1. Click on "Admin Dashboard," which is where we'll need to be for the last step.
@@ -284,6 +290,8 @@ Last - Neatline, which is a plugin that sits inside of Omeka.
 
 1. Go back to the Omeka admin dashboard in the browser an click on the **Plugins** link at the top of the screen. Find the listing for "Neatline," and click the **Install** button.
 
+  ![](images/neatline/install-neatline.jpg)
+
 # Minard + Napoleon
 
 Now that Neatline is up and running, let's build our interactive edition of Minard's infographic.
@@ -300,6 +308,14 @@ First, we'll create a new Neatline exhibit.
 
 1. Enter a title into the Title field. Something like - "Minard + Napoleon." For now, don't worry about the URL slug (Neatline will automatically generate a value based on your title) or the Narrative field.
 
+  ![](images/neatline/create-exhibit.jpg)
+
+1. In the **Default Spatial Layer** dropdown, select **Stamen Toner**.
+
+  ![](images/neatline/create-exhibit.jpg)
+
+1. Near the bottom of the form, uncheck **Spatial Querying**. (This is designed for larger exhibits that need to handle lots of data, and unnecessary for this type of project.)
+
 1. Click **Save Exhibit**. You’ll be taken back to the main list of exhibits, where you'll see a listing for your new exhibit.
 
 1. Click on the title to open the Neatline editing interface.
@@ -313,6 +329,8 @@ Before we start adding content, we’ll need to set the default focus location a
 1. Once you’ve got the map in the right place, click on the **Styles** tab at the top of the editing panel on the left side of the screen and scroll down to the "Default Map Focus" and "Default Map Zoom" fields. Click the **Use Current Viewport** as Default button to automatically populate the two fields with values that correspond to the current position of the map.
 
 1. Click on **Save** to lock in the new defaults. Now, when you refresh the page (or when a visitor comes to the exhibit), the map will start at this location.
+
+  ![](images/neatline/set-default-viewport.jpg)
 
 ### Import Minard's map
 
@@ -328,9 +346,13 @@ Now, let’s add some content. We’ll start by importing the WMS layer of Minar
 
 1. And, in the WMS Layers field, enter `minard`.
 
+  ![](images/neatline/add-wms-layer.jpg)
+
 1. Click **Save** at the bottom of the form, and the map will appear as a translucent overlay on top of the satellite imagery.
 
-1. Next, we'll want to bump up the opacity of the layer so we can see it better. Scroll up to the Opacities field set and change **Fill Opacity** to about 0.8 and **Fill Opacity (Selected)** to about 0.9. You can type directly into the form input, or you can click and drag up and down on the page to smoothly change the value of the input.
+1. Next, we'll want to bump up the opacity of the layer so we can see it better. Scroll up to the Opacities field set and change **Fill Opacity** to about 0.9 and **Fill Opacity (Selected)** to about 1.0. You can type directly into the form input, or you can click and drag up and down on the page to smoothly change the value of the input.
+
+  ![](images/neatline/set-wms-opacity.jpg)
 
 1. Once you're done, click **Save** at the bottom of the form, and then go back to the list of records by clicking the X button at the top of the form.
 
@@ -342,6 +364,7 @@ Now, with the map in place - let's annotate it.
 
 First things first - I don't speak French, so let's transcribe the title and description printed across the top of Minard's graphic. For reference, here's the English translation:
 
+  ```
   Figurative Map of the successive losses in men of the French Army in the Russian campaign 1812-1813.
 
   Drawn up by M. Minard, Inspector General of Bridges and Roads in retirement.
@@ -349,6 +372,7 @@ First things first - I don't speak French, so let's transcribe the title and des
   Paris, November 20, 1869.
 
   The numbers of men present are represented by the widths of the colored zones at a rate of one millimeter for every ten-thousand men; they are further written across the zones. The information which has served to draw up the map has been extracted from the works of M. M. Thiers, of Segur, of Fezensac, of Chambray, and the unpublished diary of Jacob, pharmacist of the army since October 28th. In order to better judge with the eye the diminution of the army, I have assumed that the troops of prince Jerome and of Marshal Davoush who had been detached at Minsk and Moghilev and have rejoined around Orcha and Vitebsk, had always marched with the army.
+  ```
 
 1. Click on **New Record** and enter in the English text of Minard's title into Neatline's "Title" field.
 
@@ -359,6 +383,8 @@ First things first - I don't speak French, so let's transcribe the title and des
 1. By default, opacity of the polygon is rather high, and makes it bit distracting when layered on top of the text. To make it easier on the eyes, click over into the **Style** tab and find the **Fill Color** option. Click on the input to open the color picker, and change the color to solid white. Do the same for the **Fill Color (Selected)** field, which controls the color of the shape when the cursor is hovered on top of it.
 
 1. We can do even better than this - what if, by default, the annotation were invisible, and only displayed when the reader pointed the cursor at the text? We can make this happen by dropping the **Fill Opacity** and **Stroke Opacity** down to 0, which makes the record effectively invisible until it's switched into "selected" mode when the cursor hovers on it.
+
+  ![](images/neatline/set-title-opacity.jpg)
 
 1. When the record looks good, click the **Save** button at the bottom of the screen to lock in the changes, and then close out the record with the **X** at the top of the form.
 
@@ -378,7 +404,11 @@ Next, let's add interactive annotations to the two endpoints of Minard's visuali
 
 1. Click once on Kaunas to lay down a single point. Once the point is in place, reactivate the default **Navigate** mode so that you don’t accidentally drop another point the next time you click on the map.
 
+  ![](images/neatline/plot-kaunas.jpg)
+
 1. Switch to the **Style** tab and scroll down to the **Dimensions** field set. Click on the **Point Radius** input and drag up to make the point a bit larger. As the value changes in the form, the point on the map will resize to preview the new value.
+
+  ![](images/neatline/set-point-radius.jpg)
 
 1. Once you're done, click **Save** and go back to the list of records by clicking the **X** at the top of the form.
 
