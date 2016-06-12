@@ -12,6 +12,8 @@ So, to get started with our Neatline edition of Mianrd's Napoleon infographic.
 
 1. If you're on Mac, you'll get taken to KyngChaos downloads page. Download the **QGIS 2.14.3-1** file and open up the DMG archive.
 
+  ![](images/mac-download-qgis.jpg)
+
 1. Open the DMG file. Inside, you'll see four different `.pkg` files, labeled 1 to 4. QGIS is the final one, but you'll need to install each of these in order to get all of the required dependencies.
 
 **WINDOWS**
