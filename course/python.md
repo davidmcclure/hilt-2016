@@ -6,6 +6,14 @@ Instead, we're going to use a piece of software called the Stanford Named Entity
 
 At the end of the process, we'll have a nicely-formatted CSV file that can be imported into visualization tools like Google Fusion Tables and CartoDB.
 
+## Install the Stanford Named Entity Recognizer
+
+1. Go to http://nlp.stanford.edu/software/CRF-NER.shtml#Download and click on **Download Stanford Named Entity Recognizer version 3.6.0**.
+
+1. Open the zip file and copy the `stanford-ner-2015-12-09` folder to the `Projects` directory.
+
+TODO
+
 ## Set up a Python development environment
 
 First, we'll install the latest release of Python 3.
