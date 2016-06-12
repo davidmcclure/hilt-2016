@@ -6,7 +6,17 @@ Instead, we're going to use a piece of software called the Stanford Named Entity
 
 At the end of the process, we'll have a nicely-formatted CSV file that can be imported into visualization tools like Google Fusion Tables and CartoDB.
 
-TODO: Java on osx
+## Install Java
+
+**MAC**
+
+1. Run `brew cask install java`.
+
+1. When the install finishes, run `java -version`. You should see `java version "1.8.0_92"`.
+
+**WINDOWS**
+
+1. Go to http://java.com/en/download/, download the latest version of Java, and run the installer.
 
 ## Install the Stanford Named Entity Recognizer
 
