@@ -4,8 +4,6 @@ Now that we've spent some time working with existing tools - QGIS, Neatline, Fus
 
 ## Set up the development environment
 
-**MAC**
-
 1. Change back into the top-level `Projects` directoy: `cd ~/Projects`
 
 1. Create a new directory with `mkdir website`, and change down into the new directory with `cd website`.
@@ -91,6 +89,8 @@ Next, we'll install Node.js, a server side Javascript runtime that will make it 
 
 1. Refresh the page in the browser, and a little window should appear with "HILT 2016".
 
-**WINDOWS**
 
-TODO
+
+- add map markup
+- install leaflet, leaflet providers, lodash
+- add slider

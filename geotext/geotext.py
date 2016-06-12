@@ -2,8 +2,10 @@
 
 import click
 import csv
+import json
 
 from bs4 import BeautifulSoup
+from geojson import Point, Feature, FeatureCollection
 from geopy.geocoders import GoogleV3
 
 
@@ -80,6 +82,37 @@ def geocode(in_file, out_file):
 
         except Exception as e:
             print(e)
+
+
+@geotext.command()
+@click.argument('in_file', type=click.File('r'))
+@click.argument('out_file', type=click.File('w'))
+def csv_to_geojson(in_file, out_file):
+
+    """
+    Convert a geocoded CSV to GeoJSON.
+    """
+
+    reader = csv.DictReader(in_file)
+
+    features = []
+    for row in reader:
+
+        lat = float(row.pop('latitude'))
+        lon = float(row.pop('longitude'))
+
+        point = Point((lon, lat))
+
+        feature = Feature(
+            geometry=point,
+            properties=row,
+        )
+
+        features.append(feature)
+
+    collection = FeatureCollection(features)
+
+    print(json.dumps(collection, indent=2), file=out_file)
 
 
 if __name__ == '__main__':

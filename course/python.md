@@ -115,6 +115,7 @@ Now, we'll create a "virtual environment," a set of files that wraps up a copy o
   ipython
   click
   bs4
+  geojson
   geopy
   ```
 
@@ -192,6 +193,7 @@ Now, we'll write another little script to geocode each row in this file.
 ```python
 from geopy.geocoders import GoogleV3
 
+# ...
 
 @geotext.command()
 @click.argument('in_file', type=click.File('r'))
@@ -241,3 +243,49 @@ def geocode(in_file, out_file):
 ```
 
 1. Back on the command line, run this new command, passing in the CSV that was produced by the first command, and saving the result to a second CSV. Eg: `python geotext.py toponyms.csv toponyms-geocoded.csv`. This will take 2-3 minutes to run, since a separate request has to be made for each item.
+
+## Convert the CSV to geojson
+
+Last, we'll write one more command that will convert the geocoded CSV file into GeoJSON, a widely-used format for spatial data.
+
+1. Below the `geocode` command, add this:
+
+  ```python
+  import json
+
+  from geojson import Point, Feature, FeatureCollection
+
+  # ...
+
+  @geotext.command()
+  @click.argument('in_file', type=click.File('r'))
+  @click.argument('out_file', type=click.File('w'))
+  def csv_to_geojson(in_file, out_file):
+
+      """
+      Convert a geocoded CSV to GeoJSON.
+      """
+
+      reader = csv.DictReader(in_file)
+
+      features = []
+      for row in reader:
+
+          lat = float(row.pop('latitude'))
+          lon = float(row.pop('longitude'))
+
+          point = Point((lon, lat))
+
+          feature = Feature(
+              geometry=point,
+              properties=row,
+          )
+
+          features.append(feature)
+
+      collection = FeatureCollection(features)
+
+      print(json.dumps(collection, indent=2), file=out_file)
+  ```
+
+1. And, on the command line, make a GeoJSON file: `python geotext.py csv_to_geojson toponyms-geocoded.csv toponyms.geojson`
