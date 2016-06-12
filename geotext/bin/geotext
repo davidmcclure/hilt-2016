@@ -6,18 +6,12 @@ import click
 import csv
 
 from bs4 import BeautifulSoup
-from dotenv import load_dotenv, find_dotenv
 from geopy.geocoders import GoogleV3
 
 
 @click.group()
 def geotext():
-
-    """
-    Load configuration variables.
-    """
-
-    load_dotenv(find_dotenv())
+    pass
 
 
 @geotext.command()
@@ -55,7 +49,7 @@ def geocode(in_file, out_file):
     reader = csv.DictReader(in_file)
 
     geocoder = GoogleV3(
-        domain=os.environ.get('DSTK_HOST'),
+        domain='dstk.dclure.org',
         timeout=10,
         scheme='http',
     )

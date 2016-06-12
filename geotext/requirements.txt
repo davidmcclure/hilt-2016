@@ -1,6 +1,5 @@
 
 ipython
 click
-python-dotenv
 bs4
 geopy
