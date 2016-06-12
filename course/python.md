@@ -8,6 +8,8 @@ At the end of the process, we'll have a nicely-formatted CSV file that can be im
 
 ## Install Java
 
+---
+
 **MAC**
 
 1. Run `brew cask install java`.
@@ -17,6 +19,8 @@ At the end of the process, we'll have a nicely-formatted CSV file that can be im
 **WINDOWS**
 
 1. Go to http://java.com/en/download/, download the latest version of Java, and run the installer.
+
+---
 
 ## Install the Stanford Named Entity Recognizer
 

@@ -29,13 +29,29 @@ Now that we've spent some time working with existing tools - QGIS, Neatline, Fus
   </html>
   ```
 
-1. Now, we'll install a development server that will make it easy to view the page in the browser. Install Node.js, a server-side Javascript runtime: `brew install node`
+## Run a development server
+
+Next, we'll install Node.js, a server side Javascript runtime that will make it easy to start a local server for the page.
+
+---
+
+**MAC**
+
+1. Run `brew install node`
+
+**WINDOWS**
+
+1. Go to https://nodejs.org and click the **v4.4.5 LTS** download button.
+
+1. When the download finishes, run the .msi installer.
+
+---
 
 1. Install the `http-server` module: `npm install -g http-server`
 
 1. Open up a new tab in the terminal and spin up a development server with `http-server`.
 
-1. By default, this will bind to port 8080. Open up a new tab in your browser and go to `http://localhost:8080`. If everything is wired up correctly, you'll see the "HILT 2016."
+1. By default, this will bind to port `8080`. Open up a new tab in your browser and go to `http://localhost:8080`. If everything is wired up correctly, you'll see the "HILT 2016."
 
 ## Create a stylesheet
 
