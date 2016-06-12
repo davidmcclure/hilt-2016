@@ -32,6 +32,8 @@ At the end of the process, we'll have a nicely-formatted CSV file that can be im
 
 1. Start the NER application with: `java -jar stanford-ner.jar`. This will open the application in a separate window. Leave the command line program running in the background.
 
+  ![](images/python/ner-gui.jpg)
+
 ## Extract entities from a novel
 
 1. Head over to http://www.gutenberg.org/ (or anywhere else on the web with full-text documents of interest) and find some kind of interesting text to work with. Try to use something that will have a lot of interesting place references. I'll use Jules Verne's _Around the World in Eighty Days_, which should have plenty!
@@ -40,9 +42,13 @@ At the end of the process, we'll have a nicely-formatted CSV file that can be im
 
 1. Go back to the NER application and click **File > Load URL**. Paste in the URL.
 
+  ![](images/python/load-url.jpg)
+
 1. Load the model file - click on **Classifier > Load CRF From File**.
 
 1. In the file browser, find the `stanford-ner-2015-12-09` folder and open up "classifiers." Select the **english.all.3class.distsim.crf.ser.gz** file and click **Open**.
+
+  ![](images/python/load-model.jpg)
 
 1. Click **Run NER** to run the model. Depending on the length of the text, this should take 10-20 seconds. When it's done, you should see colored highlights on entities in the text.
 
