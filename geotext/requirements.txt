@@ -1,10 +1,6 @@
 
 ipython
 click
-numpy
-polyglot
-nltk
 python-dotenv
-geojson
+bs4
 geopy
-ner
