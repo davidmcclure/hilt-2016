@@ -1,6 +1,48 @@
 # Analyzing and Presenting Spatial data
 
-Welcome! Over the course of the next four days we're going take a look at a wide range of tools and techniques for working with spatial data in the humanities. By the end of the week, it's my hope that everyone will be able to build effective spatial humanities projects using off-the-shelf tools, and also know how to get started with more complex or unusual projects that call for some custom data preparation or interface design.
+Welcome! Over the course of the next four days we're going take a look at a range of tools and techniques for working with spatial data in the humanities. By the end of the week, it's my hope that everyone will be able to build effective spatial humanities projects using off-the-shelf tools, and also know how to get started with more complex or unusual projects that call for some custom data preparation or interface design.
+
+The course is laid out along an axis that I think provides a useful way to think about the range of GIS practices in the humanities. On the one end of the spectrum are tools like Neatline, which, in many ways, are interested in applying traditional methods in the humanities to digital maps - there's a focus on building rich interpretations of specific objects (eg, historic maps), often making use of hand-crafted data that been designed to support a specific narrative or argument.
+
+At the other end of the spectrum is a set of practices that more closely resemble GIS as practiced in the (social) sciences - a focus on larger amounts of data, with an eye towards building simple data models that lend themselves to traditional modes of quantitative analysis. In some ways, this echoes the distinction in computational text analysis between "close reading" and "distant reading." The "distant" methods make it possible to ask questions as a much larger scale, but with the tradeoff that the questions themselves tend to be somewhat more specific, structured, and empirical - which, depending on the goals of the project, can either be a good or a bad thing.
+
+For me, these two ways of thinking about spatial data are wonderful complements to each other. Over the course of the next four days, we'll look at a range of tools along the spectrum between the two:
+
+**
+
+
+
+for me, these two ways of thinking about spatial data are wonderful complements to each other - some projects are more suited to one than the other,
+
+
+the data tends to be larger, but also simpler and more rigidly structured. the methods more quantitative than qualitative
+
+
+
+In may ways, this echoes the distinction in computational text analysis between traditional "close reading" and "distant reading," which makes it possible to ask questions at a much larger scale, but often with the tradeoff that the questions themselves tend to become somewhat more specific, structured, and empirical - which, depending on the goals of the project, can either be a good or a bad thing.
+
+
+the tools tend to focus on providing the tools to build rich interpretations of specific objects, often making use of data that's deliberately small, hand-crafted, and specifically designed to support
+
+
+
+which are interested in what's been called "small" or "hand-crafted" data - a focus on building rich interpretations of specific spatial objects, in many ways similar to
+
+, in many ways, try to apply traditional methodologies in the humanities to digital maps - an emphasis on developing rich interpretations of specific cultural objects, often with a deliberate focus on what might be called "small" or "hand-crafted" data. At the other end of the spectrum is a set of practices that more closely resemble GIS as practiced in the (social) sciences, government, and industry - a focus on larger amounts of data, with an eye towards building data models that are simple and tractable at large scales. In may ways, this echoes the distinction in computational text analysis between traditional "close reading" and "distance reading," which makes it possible to ask questions at a much larger scale, but often with the tradeoff that the questions themselves tend to become somewhat more specific, structured, and empirical - which, depending on the goals of the project, can either be a good or a bad thing.
+
+
+an effort to apply traditional ways of knowing in the humanities - a careful focus on specific historical materials, an emphasis on developing rich interpretations of specific cultural objects
+
+
+ is a set of methods that deliberately focus on what might be thought of as "small data,"
+
+deep engagement with spatially-inflected materials and information.
+
+
+
+a set of practices that
+
+
 
 In a conceptual sense, the course is laid out along a conceptual axis that I think provides a useful way to think about the range of GIS practices in the humanities. On one end is a set of methodologies that might be thought of as focusing deliberately on "small data" - Drucker and Nowviskie's notion of "graphesis," a mode of knowing in the humanities that arises from very close consideration of spatially-inflected materials and information. At the other end of the spectrum is a set of practices that more closely resemble GIS as practiced in the sciences, the social sciences, government, and industry - a focus on large amounts of data, with an eye towards building data models that are simple and tractable at very large scales. In many ways this echoes the distinction in computational text analysis between traditional "close reading" and "distant reading," which makes it possible to ask questions at a much larger scale, but often with the tradeoff that the questions themselves tend to become somewhat more specific, structured, and empirical - which, depending on the goals of the project, can be either a good or a bad thing. both ends of this continuum have their advantages, and neither offers a complete set of solutions - indeed, as we'll see over the course of the next few days, both approaches (and everything in between) have real shortcomings, and I tend to think it's best to think of them as complements - two different hammers in the toolbox, suitable for different projects and even at different stages of the same project.
 
