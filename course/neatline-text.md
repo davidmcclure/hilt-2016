@@ -46,9 +46,13 @@ Come, Muse, migrate from <span data-neatline-slug="greece">Greece</span> and <sp
 
 1. Open the editor, and create records for each of the place names annotated in the text. In each record, fill in the **Slug** field with the value in the `data-neatline-slug`. Eg, when plotting out "Greece," just put `greece` in **Slug**. This is how Neatline links up the HTML with the records.
 
+  ![](images/neatline-text/set-slug.jpg)
+
 1. Once the records are plotted out, go back to the exhibit browse view, and click the **Exhibit Settings** link for the exhibit.
 
 1. In the **Narrative** field, click on the **Source** button to flip on HTML mode. Paste in the raw HTML markup of the text.
+
+  ![](images/neatline-text/paste-markup.jpg)
 
 1. Save the exhibit.
 
@@ -63,3 +67,5 @@ To fix this, let's install a theme called Neatlight, which was specifically desi
 1. Copy the `neatlight-master` folder and paste it into the `themes` directory inside of Omeka, alongside `berlin` and `default`.
 
 1. In the Omeka admin, click on **Appearance** and find the listing for "Neatlight." Click **Use this theme** to activate it. Now, go back to the public view for the exhibit, and the fullscreen layout will be displayed.
+
+  ![](images/neatline-text/set-theme.jpg)
