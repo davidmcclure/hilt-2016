@@ -4,7 +4,9 @@ Welcome! Over the course of the next four days we're going take a look at a rang
 
 The course is laid out along an axis that I think provides a useful way to think about the range of GIS practices in the humanities. On the one end of the spectrum are tools like Neatline, which, in many ways, are interested in applying traditional methods in the humanities to digital maps - there's a focus on building rich interpretations of specific objects (eg, historic maps), often making use of hand-crafted data that been designed to support a specific narrative or argument. At the other end of the spectrum is a set of practices that more closely resemble GIS as practiced in the (social) sciences - a focus on larger amounts of data, with an eye towards building simple data models that lend themselves to traditional modes of quantitative analysis.
 
-For me, these two ways of thinking about spatial data are excellent complements to each other - some projects are more suited to one than the other, but in many cases both can be brought to bear on the same questions in interesting ways. Over the course of the next four days, we'll look at tools along the gradient between the two.
+For me, these two ways of thinking about spatial data are excellent complements to each other. Some projects naturally gravitate towards one or the other, but, I think just as often, both can be brought to bear on the same question in interesting ways. We'll run the gamut between the two.
+
+## Course Outline
 
 **Part 1: Neatline**
 
