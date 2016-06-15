@@ -1,0 +1,593 @@
+{
+  "features": [
+    {
+      "properties": {
+        "toponym": "San Diego",
+        "offset": "0"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.15726,
+          32.71533
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Frisco",
+        "offset": "4"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.41942,
+          37.77493
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "San Francisco",
+        "offset": "5"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.41942,
+          37.77493
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Seattle",
+        "offset": "6"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.33207,
+          47.60621
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Newfoundland",
+        "offset": "7"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.0,
+          52.0
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Seattle",
+        "offset": "8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.33207,
+          47.60621
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Northland",
+        "offset": "12"
+      },
+      "geometry": {
+        "coordinates": [
+          174.0,
+          -35.5
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Buck",
+        "offset": "13"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.22885,
+          39.8726
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Yukon Trail",
+        "offset": "19"
+      },
+      "geometry": {
+        "coordinates": [
+          -129.0159,
+          60.1734
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Yukon",
+        "offset": "21"
+      },
+      "geometry": {
+        "coordinates": [
+          -135.00404,
+          62.99962
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Canada",
+        "offset": "26"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.64258,
+          60.10867
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Yukon",
+        "offset": "32"
+      },
+      "geometry": {
+        "coordinates": [
+          -135.00404,
+          62.99962
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Hudson Bay",
+        "offset": "36"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.38425,
+          52.85003
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Newfoundland",
+        "offset": "41"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.0,
+          52.0
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Newfoundland",
+        "offset": "42"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.0,
+          52.0
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "White River",
+        "offset": "44"
+      },
+      "geometry": {
+        "coordinates": [
+          31.01166,
+          -25.33177
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "White River",
+        "offset": "45"
+      },
+      "geometry": {
+        "coordinates": [
+          31.01166,
+          -25.33177
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Alaska",
+        "offset": "46"
+      },
+      "geometry": {
+        "coordinates": [
+          -150.00028,
+          64.00028
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Alaska",
+        "offset": "49"
+      },
+      "geometry": {
+        "coordinates": [
+          -150.00028,
+          64.00028
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Manila",
+        "offset": "51"
+      },
+      "geometry": {
+        "coordinates": [
+          120.9822,
+          14.6042
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Dawson",
+        "offset": "52"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.44658,
+          31.7735
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "East",
+        "offset": "53"
+      },
+      "geometry": {
+        "coordinates": [
+          87.14802,
+          27.23998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "East",
+        "offset": "56"
+      },
+      "geometry": {
+        "coordinates": [
+          87.14802,
+          27.23998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Northland",
+        "offset": "57"
+      },
+      "geometry": {
+        "coordinates": [
+          174.0,
+          -35.5
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Yukon",
+        "offset": "58"
+      },
+      "geometry": {
+        "coordinates": [
+          -135.00404,
+          62.99962
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "East",
+        "offset": "60"
+      },
+      "geometry": {
+        "coordinates": [
+          87.14802,
+          27.23998
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "United States",
+        "offset": "62"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "United States",
+        "offset": "63"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "United States",
+        "offset": "64"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "United States",
+        "offset": "65"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "United States",
+        "offset": "66"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "United States",
+        "offset": "67"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "United\nStates",
+        "offset": "68"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.0,
+          38.0
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "United States",
+        "offset": "69"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Mississippi",
+        "offset": "70"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.75036,
+          32.75041
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "U.S.",
+        "offset": "71"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "Salt Lake City",
+        "offset": "73"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.89105,
+          40.76078
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "UT",
+        "offset": "74"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.75103,
+          39.25024
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "United\nStates",
+        "offset": "75"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.0,
+          38.0
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "United States",
+        "offset": "76"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "U.S.",
+        "offset": "77"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "toponym": "U.S.",
+        "offset": "78"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

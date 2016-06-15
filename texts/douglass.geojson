@@ -1,0 +1,1895 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "BOSTON",
+        "offset": "0"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.05977,
+          42.35843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "MASSACHUSETTS",
+        "offset": "1"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.10832,
+          42.36565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Nantucket",
+        "offset": "3"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.09946,
+          41.28346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "4"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "5"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Massachusetts",
+        "offset": "6"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.10832,
+          42.36565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Bay State",
+        "offset": "7"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.10832,
+          42.36565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "8"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Ireland",
+        "offset": "10"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.0,
+          53.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Africa",
+        "offset": "12"
+      },
+      "geometry": {
+        "coordinates": [
+          11.06222,
+          35.50472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "13"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Georgia",
+        "offset": "14"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.50018,
+          32.75042
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Alabama",
+        "offset": "15"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.75026,
+          32.75041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Louisiana",
+        "offset": "16"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.0004,
+          31.00047
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "18"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "19"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Washington",
+        "offset": "20"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.50147,
+          47.50012
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "BOSTON",
+        "offset": "21"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.05977,
+          42.35843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "BOSTON",
+        "offset": "23"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.05977,
+          42.35843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Chesapeake",
+        "offset": "25"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.27494,
+          36.81904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Mississippi",
+        "offset": "26"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.75036,
+          32.75041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Massachusetts",
+        "offset": "28"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.10832,
+          42.36565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Massachusetts",
+        "offset": "29"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.10832,
+          42.36565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "30"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New England",
+        "offset": "31"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.86822,
+          46.53918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Massachusetts",
+        "offset": "33"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.10832,
+          42.36565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Easton",
+        "offset": "34"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.22073,
+          40.68843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "36"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New York City",
+        "offset": "38"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.992602,
+          40.742185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Nantucket",
+        "offset": "40"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.09946,
+          41.28346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "District of Columbia",
+        "offset": "41"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.00025,
+          38.91706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "42"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Haiti",
+        "offset": "43"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.41667,
+          19.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Tuckahoe",
+        "offset": "44"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.55638,
+          37.59015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Easton",
+        "offset": "46"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.22073,
+          40.68843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "48"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "49"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Africa",
+        "offset": "50"
+      },
+      "geometry": {
+        "coordinates": [
+          11.06222,
+          35.50472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Easton",
+        "offset": "52"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.22073,
+          40.68843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Easton",
+        "offset": "60"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.22073,
+          40.68843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Annapolis",
+        "offset": "61"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.49218,
+          38.97845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Georgia",
+        "offset": "63"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.50018,
+          32.75042
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "64"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "66"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "68"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "69"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "75"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Ireland",
+        "offset": "76"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.0,
+          53.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Annapolis",
+        "offset": "84"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.49218,
+          38.97845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New England",
+        "offset": "85"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.86822,
+          46.53918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Africa",
+        "offset": "95"
+      },
+      "geometry": {
+        "coordinates": [
+          11.06222,
+          35.50472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "District of Columbia",
+        "offset": "96"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.00025,
+          38.91706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Georgia",
+        "offset": "102"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.50018,
+          32.75042
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Whittier",
+        "offset": "107"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.03284,
+          33.97918
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Virginia",
+        "offset": "108"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.44675,
+          37.54812
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St.\nMichael",
+        "offset": "109"
+      },
+      "geometry": {
+        "coordinates": [
+          11.972,
+          51.483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "110"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Philadelphia",
+        "offset": "113"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.16379,
+          39.95234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "116"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "117"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "119"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "120"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "121"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St.\nMichael",
+        "offset": "122"
+      },
+      "geometry": {
+        "coordinates": [
+          11.972,
+          51.483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "123"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Delaware",
+        "offset": "126"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.49992,
+          39.00039
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Pennsylvania",
+        "offset": "127"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.995133,
+          40.696298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "128"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "129"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "130"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Canada",
+        "offset": "132"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.64258,
+          60.10867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New York",
+        "offset": "133"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005973,
+          40.714269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "135"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "138"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "142"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Easton",
+        "offset": "143"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.22073,
+          40.68843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Easton",
+        "offset": "144"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.22073,
+          40.68843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Easton",
+        "offset": "145"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.22073,
+          40.68843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Alabama",
+        "offset": "146"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.75026,
+          32.75041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Alabama",
+        "offset": "147"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.75026,
+          32.75041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New York",
+        "offset": "158"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005973,
+          40.714269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New\nYork",
+        "offset": "159"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.4870706,
+          55.0253096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New York",
+        "offset": "160"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005973,
+          40.714269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New York",
+        "offset": "161"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005973,
+          40.714269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Canada",
+        "offset": "162"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.64258,
+          60.10867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "163"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New York",
+        "offset": "164"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005973,
+          40.714269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New York",
+        "offset": "165"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005973,
+          40.714269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Newport",
+        "offset": "166"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.9974967,
+          51.5882332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "167"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Newport",
+        "offset": "168"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.9974967,
+          51.5882332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "169"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Newport",
+        "offset": "170"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.9974967,
+          51.5882332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Newport",
+        "offset": "171"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.9974967,
+          51.5882332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "172"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "173"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "174"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "175"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "176"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New York",
+        "offset": "178"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.005973,
+          40.714269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "179"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "180"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "182"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "183"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "185"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Easton",
+        "offset": "187"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.22073,
+          40.68843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Michael",
+        "offset": "188"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.6,
+          13.11667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "190"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Maryland",
+        "offset": "191"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.904972,
+          38.885867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Talbot county Maryland",
+        "offset": "192"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.908915,
+          38.882104
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "193"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "194"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "195"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Nantucket",
+        "offset": "196"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.09946,
+          41.28346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Bedford",
+        "offset": "197"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.9342,
+          41.63622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Israel",
+        "offset": "198"
+      },
+      "geometry": {
+        "coordinates": [
+          34.75,
+          31.5
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "America",
+        "offset": "199"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "America",
+        "offset": "200"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Bashan",
+        "offset": "201"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.43342,
+          41.51315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "203"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "204"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "205"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "206"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "207"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "208"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United\nStates",
+        "offset": "209"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.0,
+          38.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "210"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Mississippi",
+        "offset": "211"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.75036,
+          32.75041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "U.S.",
+        "offset": "212"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Salt Lake City",
+        "offset": "214"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.89105,
+          40.76078
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "UT",
+        "offset": "215"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.75103,
+          39.25024
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United\nStates",
+        "offset": "216"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.0,
+          38.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "217"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "U.S.",
+        "offset": "218"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "U.S.",
+        "offset": "219"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

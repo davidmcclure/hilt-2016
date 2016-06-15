@@ -1,0 +1,2231 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Goshen",
+        "offset": "1"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.83444,
+          41.58227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "2"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Arkansaw",
+        "offset": "3"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.03128,
+          44.63385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Bridgewater",
+        "offset": "4"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.64815,
+          40.60079
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "6"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Boston Harbor",
+        "offset": "7"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.90097,
+          47.13843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Missouri",
+        "offset": "8"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.50046,
+          38.25031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Orleans",
+        "offset": "10"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.07507,
+          29.95465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "China",
+        "offset": "13"
+      },
+      "geometry": {
+        "coordinates": [
+          105.0,
+          35.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Washington",
+        "offset": "15"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.50147,
+          47.50012
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "16"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Ohio",
+        "offset": "17"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.00018,
+          40.25034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Island",
+        "offset": "18"
+      },
+      "geometry": {
+        "coordinates": [
+          -18.0,
+          65.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Island",
+        "offset": "19"
+      },
+      "geometry": {
+        "coordinates": [
+          -18.0,
+          65.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "20"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "21"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Missouri",
+        "offset": "22"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.50046,
+          38.25031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Missouri",
+        "offset": "23"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.50046,
+          38.25031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "24"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Orleans",
+        "offset": "25"
+      },
+      "geometry": {
+        "coordinates": [
+          1.90389,
+          47.90289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Orleans",
+        "offset": "26"
+      },
+      "geometry": {
+        "coordinates": [
+          1.90389,
+          47.90289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "27"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "28"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "29"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Missouri",
+        "offset": "30"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.50046,
+          38.25031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Missouri",
+        "offset": "31"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.50046,
+          38.25031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "32"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "33"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Mississippi",
+        "offset": "34"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.75036,
+          32.75041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "35"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "38"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Goshen",
+        "offset": "39"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.83444,
+          41.58227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Goshen",
+        "offset": "40"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.83444,
+          41.58227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Goshen",
+        "offset": "41"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.83444,
+          41.58227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Petersburg",
+        "offset": "42"
+      },
+      "geometry": {
+        "coordinates": [
+          30.26417,
+          59.89444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Goshen",
+        "offset": "43"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.83444,
+          41.58227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Goshen",
+        "offset": "44"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.83444,
+          41.58227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Goshen",
+        "offset": "45"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.83444,
+          41.58227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Goshen",
+        "offset": "46"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.83444,
+          41.58227
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "47"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "48"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Missouri",
+        "offset": "49"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.50046,
+          38.25031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "50"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Missouri",
+        "offset": "51"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.50046,
+          38.25031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Missouri",
+        "offset": "52"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.50046,
+          38.25031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Petersburg",
+        "offset": "54"
+      },
+      "geometry": {
+        "coordinates": [
+          30.26417,
+          59.89444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "France",
+        "offset": "58"
+      },
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "America",
+        "offset": "59"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "60"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Illinois",
+        "offset": "61"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.25037,
+          40.00032
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Ohio",
+        "offset": "63"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.00018,
+          40.25034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "65"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "66"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "67"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "68"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "69"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "70"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "71"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "72"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "73"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "74"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Ohio",
+        "offset": "75"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.00018,
+          40.25034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cairo",
+        "offset": "76"
+      },
+      "geometry": {
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Arkansaw",
+        "offset": "77"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.03128,
+          44.63385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Philadelphia",
+        "offset": "78"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.16379,
+          39.95234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Whistler",
+        "offset": "79"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.96946,
+          50.1164
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Prague",
+        "offset": "80"
+      },
+      "geometry": {
+        "coordinates": [
+          14.42076,
+          50.08804
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Panama",
+        "offset": "81"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.0,
+          9.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Miss Charlotte",
+        "offset": "82"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.84313,
+          35.22709
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Mississippi",
+        "offset": "85"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.75036,
+          32.75041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Bridgewater",
+        "offset": "86"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.64815,
+          40.60079
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Bridgewater",
+        "offset": "87"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.64815,
+          40.60079
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "France",
+        "offset": "90"
+      },
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Missouri",
+        "offset": "92"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.50046,
+          38.25031
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Orleans",
+        "offset": "93"
+      },
+      "geometry": {
+        "coordinates": [
+          1.90389,
+          47.90289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Orleans",
+        "offset": "94"
+      },
+      "geometry": {
+        "coordinates": [
+          1.90389,
+          47.90289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Paris",
+        "offset": "95"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "London",
+        "offset": "97"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Jacques",
+        "offset": "102"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.72086,
+          48.06514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Orleans",
+        "offset": "103"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.07507,
+          29.95465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Highland",
+        "offset": "105"
+      },
+      "geometry": {
+        "coordinates": [
+          -5.0000001,
+          57.5000001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Arkansaw",
+        "offset": "107"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.03128,
+          44.63385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "London",
+        "offset": "109"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "London",
+        "offset": "112"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Paris",
+        "offset": "114"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Arkansaw",
+        "offset": "115"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.03128,
+          44.63385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "South",
+        "offset": "116"
+      },
+      "geometry": {
+        "coordinates": [
+          2.25,
+          6.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "London",
+        "offset": "117"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Boston Harbor",
+        "offset": "119"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.90097,
+          47.13843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Wellington",
+        "offset": "120"
+      },
+      "geometry": {
+        "coordinates": [
+          174.77557,
+          -41.28664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Arkansaw",
+        "offset": "122"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.03128,
+          44.63385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St.\nLouis",
+        "offset": "125"
+      },
+      "geometry": {
+        "coordinates": [
+          11.972,
+          51.483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cincinnati",
+        "offset": "126"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.45689,
+          39.162
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Orleans",
+        "offset": "127"
+      },
+      "geometry": {
+        "coordinates": [
+          1.90389,
+          47.90289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "128"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Sheffield",
+        "offset": "129"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.4528791,
+          53.3856729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Orleans",
+        "offset": "130"
+      },
+      "geometry": {
+        "coordinates": [
+          1.90389,
+          47.90289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cincinnati",
+        "offset": "132"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.45689,
+          39.162
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cincinnati",
+        "offset": "134"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.45689,
+          39.162
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Orleans",
+        "offset": "135"
+      },
+      "geometry": {
+        "coordinates": [
+          1.90389,
+          47.90289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Louisville",
+        "offset": "136"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.75941,
+          38.25424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "138"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "139"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "140"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "London",
+        "offset": "141"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Sheffield",
+        "offset": "142"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.4528791,
+          53.3856729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Sheffield",
+        "offset": "143"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.4528791,
+          53.3856729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Sheffield",
+        "offset": "144"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.4528791,
+          53.3856729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "145"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "146"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "147"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Memphis",
+        "offset": "148"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.04898,
+          35.14953
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Orleans",
+        "offset": "149"
+      },
+      "geometry": {
+        "coordinates": [
+          1.90389,
+          47.90289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "150"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "151"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "153"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "154"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "155"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Louisville",
+        "offset": "156"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.75941,
+          38.25424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Cincinnati",
+        "offset": "157"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.45689,
+          39.162
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "158"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Pikesville",
+        "offset": "159"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.72247,
+          39.37427
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "South",
+        "offset": "160"
+      },
+      "geometry": {
+        "coordinates": [
+          2.25,
+          6.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Pikesville",
+        "offset": "162"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.72247,
+          39.37427
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Lafayette",
+        "offset": "163"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.01984,
+          30.22409
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "South",
+        "offset": "164"
+      },
+      "geometry": {
+        "coordinates": [
+          2.25,
+          6.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Orleans",
+        "offset": "167"
+      },
+      "geometry": {
+        "coordinates": [
+          1.90389,
+          47.90289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Baton Rouge",
+        "offset": "169"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.15455,
+          30.45075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "White River",
+        "offset": "171"
+      },
+      "geometry": {
+        "coordinates": [
+          31.01166,
+          -25.33177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "South",
+        "offset": "172"
+      },
+      "geometry": {
+        "coordinates": [
+          2.25,
+          6.66667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Hicksville",
+        "offset": "173"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.52513,
+          40.76843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Ohio",
+        "offset": "174"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.00018,
+          40.25034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Hicksville",
+        "offset": "175"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.52513,
+          40.76843
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Marseilles",
+        "offset": "178"
+      },
+      "geometry": {
+        "coordinates": [
+          5.38107,
+          43.29695
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "China",
+        "offset": "179"
+      },
+      "geometry": {
+        "coordinates": [
+          105.0,
+          35.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "China",
+        "offset": "180"
+      },
+      "geometry": {
+        "coordinates": [
+          105.0,
+          35.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Orleans",
+        "offset": "181"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.07507,
+          29.95465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "England",
+        "offset": "183"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Northumberland",
+        "offset": "184"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.000559,
+          55.25
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Mars",
+        "offset": "185"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.01173,
+          40.6959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Orleans",
+        "offset": "187"
+      },
+      "geometry": {
+        "coordinates": [
+          1.90389,
+          47.90289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "New Orleans",
+        "offset": "189"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.07507,
+          29.95465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "St. Petersburg",
+        "offset": "194"
+      },
+      "geometry": {
+        "coordinates": [
+          30.26417,
+          59.89444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "196"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "197"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "198"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "199"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "200"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "201"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United\nStates",
+        "offset": "202"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.0,
+          38.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "203"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Mississippi",
+        "offset": "204"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.75036,
+          32.75041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "U.S.",
+        "offset": "205"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "Salt Lake City",
+        "offset": "207"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.89105,
+          40.76078
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "UT",
+        "offset": "208"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.75103,
+          39.25024
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United\nStates",
+        "offset": "209"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.0,
+          38.0
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "United States",
+        "offset": "210"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "U.S.",
+        "offset": "211"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "toponym": "U.S.",
+        "offset": "212"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

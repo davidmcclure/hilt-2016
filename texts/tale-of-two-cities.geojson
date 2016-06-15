@@ -1,0 +1,4457 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "0",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "1",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "2",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "3",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "5",
+        "toponym": "America"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "6",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "7",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.0,
+          62.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "8",
+        "toponym": "Norway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "9",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "10",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "11",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "13",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.18221,
+          39.83004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "16",
+        "toponym": "Shooter's Hill"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "17",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "18",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "20",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "25",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.85205,
+          50.9581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "26",
+        "toponym": "Calais"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.03107,
+          37.97798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "27",
+        "toponym": "Concord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.03107,
+          37.97798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "28",
+        "toponym": "Concord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.03107,
+          37.97798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "29",
+        "toponym": "Concord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.03107,
+          37.97798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "30",
+        "toponym": "Concord"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "32",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "33",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "34",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "36",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "38",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.91155,
+          39.05901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "40",
+        "toponym": "Turkey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "42",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "43",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "44",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "45",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "46",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "48",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "49",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "50",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "51",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "53",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "54",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "55",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.05,
+          49.48333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "56",
+        "toponym": "Notre-Dame"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "61",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "62",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "63",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "64",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.0,
+          8.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "66",
+        "toponym": "Abyssinia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "68",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.80127,
+          52.51944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "70",
+        "toponym": "Tyburn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.64258,
+          60.10867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "72",
+        "toponym": "Canada"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.10204,
+          33.61571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "73",
+        "toponym": "North America"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "74",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "75",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.69531,
+          54.75844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "77",
+        "toponym": "Britain"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          22.0,
+          39.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "78",
+        "toponym": "Greece"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4839,
+          41.89474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "79",
+        "toponym": "Rome"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.85205,
+          50.9581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "80",
+        "toponym": "Calais"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.85205,
+          50.9581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "81",
+        "toponym": "Calais"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.85205,
+          50.9581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "82",
+        "toponym": "Calais"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.25,
+          48.83333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "83",
+        "toponym": "Boulogne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "85",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "87",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.85205,
+          50.9581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "88",
+        "toponym": "Calais"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "89",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "90",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "91",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "92",
+        "toponym": "America"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "93",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "94",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "95",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "97",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "99",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "104",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "105",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "106",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "107",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "108",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "109",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "110",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "111",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "112",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "113",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.75208,
+          52.71009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "114",
+        "toponym": "Shrewsbury"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.75208,
+          52.71009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "115",
+        "toponym": "Shrewsbury"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "116",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "117",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.11022,
+          51.52438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "118",
+        "toponym": "Clerkenwell"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "120",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "122",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.37114,
+          38.91944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "126",
+        "toponym": "Solomon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "128",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.11022,
+          51.52438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "129",
+        "toponym": "Clerkenwell"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.11022,
+          51.52438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "131",
+        "toponym": "Clerkenwell"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "132",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "133",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "135",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "136",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "137",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.05,
+          49.48333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "138",
+        "toponym": "Notre Dame"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.67546,
+          45.403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "139",
+        "toponym": "Babel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "140",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "142",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "143",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "144",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5805,
+          44.84044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "145",
+        "toponym": "Bordeaux"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "146",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "147",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "148",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "149",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "150",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "151",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "152",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "153",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "154",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "155",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "156",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "157",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "158",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.124862,
+          52.2033051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "159",
+        "toponym": "Cambridge"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "160",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.7667,
+          36.48847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "161",
+        "toponym": "Eden"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "162",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "165",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "166",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "167",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "168",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "169",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "170",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "171",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "173",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "174",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "175",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "176",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "178",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "179",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "180",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "182",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "183",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "184",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "185",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "198",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4839,
+          41.89474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "200",
+        "toponym": "Rome"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4839,
+          41.89474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "201",
+        "toponym": "Rome"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4839,
+          41.89474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "202",
+        "toponym": "Rome"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4839,
+          41.89474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "203",
+        "toponym": "Rome"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "204",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "205",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "207",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "208",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "210",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.13333,
+          48.8
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "211",
+        "toponym": "Versailles"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "213",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "214",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "215",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "217",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "218",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "219",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "220",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "221",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "223",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.04799,
+          49.20666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "224",
+        "toponym": "moon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.5,
+          52.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "225",
+        "toponym": "Wales"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "226",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "230",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "233",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "235",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "238",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "239",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "240",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "241",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "247",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "249",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "250",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          87.14802,
+          27.23998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "251",
+        "toponym": "East"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.09167,
+          31.80238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "252",
+        "toponym": "West"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.25,
+          6.66667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "253",
+        "toponym": "South"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          87.14802,
+          27.23998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "254",
+        "toponym": "East"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.09167,
+          31.80238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "255",
+        "toponym": "West"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.25,
+          6.66667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "256",
+        "toponym": "South"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.09167,
+          31.80238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "257",
+        "toponym": "West"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.25,
+          6.66667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "258",
+        "toponym": "South"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "259",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "260",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "261",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "263",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "264",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "265",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "266",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "267",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "269",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "270",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "271",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "272",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "273",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "274",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "275",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "277",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "278",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "279",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "280",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "282",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "283",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "284",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "285",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "286",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "288",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "289",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "290",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "291",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "292",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "293",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "294",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "295",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "296",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.08333,
+          49.43333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "297",
+        "toponym": "Beauvais"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "298",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "299",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "300",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.08333,
+          49.43333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "301",
+        "toponym": "Beauvais"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "302",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "303",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "304",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "305",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "307",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "308",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "309",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.08333,
+          49.43333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "310",
+        "toponym": "Beauvais"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "311",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.8749,
+          31.1801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "312",
+        "toponym": "La Guillotine"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "313",
+        "toponym": "Saint Germain Quarter of Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "314",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "315",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "317",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "318",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "319",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "320",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "321",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.41075,
+          34.23314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "323",
+        "toponym": "Earth"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "325",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.48,
+          37.12
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "326",
+        "toponym": "Republic of\nLiberty"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.05,
+          49.48333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "327",
+        "toponym": "Notre Dame"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "328",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.8749,
+          31.1801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "329",
+        "toponym": "La Guillotine"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.25,
+          6.66667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "330",
+        "toponym": "South"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "331",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.8749,
+          31.1801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "332",
+        "toponym": "La Guillotine"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "334",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "335",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "336",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "337",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "338",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "339",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "340",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "341",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "342",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "343",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.48019,
+          37.12005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "344",
+        "toponym": "Republic"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "345",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "346",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "347",
+        "toponym": "United States"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "348",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.48019,
+          37.12005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "350",
+        "toponym": "Republic"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "353",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "354",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "355",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "356",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "358",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "359",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "360",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "361",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "362",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "363",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "365",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "366",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "368",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "371",
+        "toponym": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "373",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "374",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "378",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.8481015,
+          52.3522694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "379",
+        "toponym": "Old England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "380",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "381",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "383",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.04799,
+          49.20666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "384",
+        "toponym": "moon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "385",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "387",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.08333,
+          49.43333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "392",
+        "toponym": "Beauvais"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "393",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "395",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "397",
+        "toponym": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "399",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "400",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "401",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.48019,
+          37.12005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "406",
+        "toponym": "Republic"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "407",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "410",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.48019,
+          37.12005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "411",
+        "toponym": "Republic"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.48019,
+          37.12005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "413",
+        "toponym": "Republic"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "416",
+        "toponym": "Paris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.8749,
+          31.1801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "417",
+        "toponym": "La Guillotine"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.0,
+          46.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "418",
+        "toponym": "France"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.972,
+          51.483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "419",
+        "toponym": "St. Honore"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "422",
+        "toponym": "England"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "423",
+        "toponym": "United States"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "424",
+        "toponym": "United States"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "425",
+        "toponym": "United States"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "426",
+        "toponym": "United States"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "427",
+        "toponym": "United States"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "428",
+        "toponym": "United States"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.0,
+          38.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "429",
+        "toponym": "United\nStates"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "430",
+        "toponym": "United States"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.75036,
+          32.75041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "431",
+        "toponym": "Mississippi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "432",
+        "toponym": "U.S."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.89105,
+          40.76078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "434",
+        "toponym": "Salt Lake City"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.75103,
+          39.25024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "435",
+        "toponym": "UT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.0,
+          38.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "436",
+        "toponym": "United\nStates"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "437",
+        "toponym": "United States"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "438",
+        "toponym": "U.S."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.5,
+          39.76
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "offset": "439",
+        "toponym": "U.S."
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

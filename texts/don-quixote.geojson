@@ -1,0 +1,10519 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.59403,
+          17.75525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "3",
+        "toponym": "KNIGHT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13317,
+          41.18454
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "5",
+        "toponym": "Stratford"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "8",
+        "toponym": "London"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.01838,
+          21.81808
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "9",
+        "toponym": "Calderon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "10",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.86621,
+          42.75508
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "11",
+        "toponym": "Galicia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.14735,
+          42.95568
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "12",
+        "toponym": "Cervatos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05445,
+          42.62895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "14",
+        "toponym": "Castile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "16",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "17",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.75102,
+          47.00025
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "18",
+        "toponym": "Montana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "19",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.36817,
+          36.27134
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "20",
+        "toponym": "Tagus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "21",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "25",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "26",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "27",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.36817,
+          36.27134
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "28",
+        "toponym": "Tagus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "30",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "31",
+        "toponym": "Estremadura"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.86621,
+          42.75508
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "32",
+        "toponym": "Galicia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "33",
+        "toponym": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "34",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "35",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60667,
+          37.18817
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "36",
+        "toponym": "Granada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55262,
+          41.24117
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "37",
+        "toponym": "Peninsula"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "38",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64827,
+          -33.45694
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "39",
+        "toponym": "Santiago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.13606,
+          36.68645
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "41",
+        "toponym": "Jerez"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60667,
+          37.18817
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "42",
+        "toponym": "Granada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.35996,
+          40.48205
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "43",
+        "toponym": "Alcala de Henares"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "45",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "46",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "47",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05445,
+          42.62895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "49",
+        "toponym": "Castile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83333,
+          42.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "50",
+        "toponym": "Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "52",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "53",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "54",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "55",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "56",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "57",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "58",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "59",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "60",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "61",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98185,
+          37.5178
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "62",
+        "toponym": "Alcala"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "63",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "64",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "65",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32667,
+          45.43861
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "66",
+        "toponym": "Venice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.26982,
+          44.88714
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "67",
+        "toponym": "Porte"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33333,
+          47.33333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "69",
+        "toponym": "Austria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.54969,
+          38.19327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "70",
+        "toponym": "Messina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305,
+          36.81806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "71",
+        "toponym": "Goletta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          34.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "72",
+        "toponym": "Tunis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "73",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "74",
+        "toponym": "Naples"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305,
+          36.81806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "75",
+        "toponym": "Goletta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33333,
+          47.33333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "76",
+        "toponym": "Austria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          37.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "77",
+        "toponym": "Sicily"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "78",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "79",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "80",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64167,
+          35.69111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "81",
+        "toponym": "Oran"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64167,
+          35.69111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "84",
+        "toponym": "Oran"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64167,
+          35.69111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "85",
+        "toponym": "Oran"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "86",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "87",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "88",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "89",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "90",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "91",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "92",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "93",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "94",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "95",
+        "toponym": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "97",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13333,
+          38.71667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "98",
+        "toponym": "Lisbon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76677,
+          40.1044
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "99",
+        "toponym": "Esquivias"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "100",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "101",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "102",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "103",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "104",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60667,
+          37.18817
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "105",
+        "toponym": "Granada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "106",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.85341
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "107",
+        "toponym": "Paris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "108",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.73333,
+          34.5862
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "109",
+        "toponym": "Triana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "110",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "111",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "112",
+        "toponym": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05445,
+          42.62895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "113",
+        "toponym": "Castile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13333,
+          38.71667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "114",
+        "toponym": "Lisbon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37739,
+          39.46975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "115",
+        "toponym": "Valencia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "116",
+        "toponym": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72372,
+          41.65518
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "118",
+        "toponym": "Valladolid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72372,
+          41.65518
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "119",
+        "toponym": "Valladolid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34878,
+          50.85045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "121",
+        "toponym": "Brussels"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "122",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83333,
+          42.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "123",
+        "toponym": "Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18951,
+          45.46427
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "124",
+        "toponym": "Milan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34878,
+          50.85045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "125",
+        "toponym": "Brussels"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "126",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "127",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25,
+          41.11667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "128",
+        "toponym": "Tarragona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "129",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "130",
+        "toponym": "England"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "131",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "132",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "133",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "134",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "135",
+        "toponym": "Barcelona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5000466,
+          53.6825669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "137",
+        "toponym": "Wakefield"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "139",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "140",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "141",
+        "toponym": "England"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "142",
+        "toponym": "London"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37739,
+          39.46975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "143",
+        "toponym": "Valencia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34878,
+          50.85045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "144",
+        "toponym": "Brussels"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "145",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "146",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "147",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "151",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "152",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55262,
+          41.24117
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "153",
+        "toponym": "Peninsula"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "154",
+        "toponym": "Estremadura"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "159",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "160",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "161",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "163",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.82211,
+          18.21551
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "164",
+        "toponym": "Rock Pena Pobre"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "165",
+        "toponym": "GREECE"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "167",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "168",
+        "toponym": "London"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37164,
+          43.00586
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "170",
+        "toponym": "Ovid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "171",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37924,
+          28.53834
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "173",
+        "toponym": "ORLANDO"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37924,
+          28.53834
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "174",
+        "toponym": "Orlando"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "175",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83192,
+          39.72943
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "176",
+        "toponym": "Aurora"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "178",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "179",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13333,
+          38.71667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "180",
+        "toponym": "Lisbon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37164,
+          43.00586
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "182",
+        "toponym": "Ovid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.76341,
+          40.38641
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "184",
+        "toponym": "BEJAR"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.96895,
+          37.37628
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "185",
+        "toponym": "GIBRALEON"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.20193,
+          19.04334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "186",
+        "toponym": "PUEBLA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.08417,
+          38.82036
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "187",
+        "toponym": "CAPILLA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "191",
+        "toponym": "England"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.318,
+          37.02154
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "192",
+        "toponym": "Phoebus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.48148,
+          39.3236
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "199",
+        "toponym": "Puerto Lapice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "201",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05445,
+          42.62895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "202",
+        "toponym": "Castile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05445,
+          42.62895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "205",
+        "toponym": "Castile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "206",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42034,
+          36.72016
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "207",
+        "toponym": "Malaga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "209",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37739,
+          39.46975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "210",
+        "toponym": "Valencia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60667,
+          37.18817
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "211",
+        "toponym": "Granada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "213",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "214",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "215",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "219",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13004,
+          37.98704
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "220",
+        "toponym": "Murcia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "222",
+        "toponym": "Estremadura"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.08949,
+          40.6727
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "223",
+        "toponym": "Guadarrama"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79784,
+          45.16031
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "224",
+        "toponym": "Mantua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79784,
+          45.16031
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "225",
+        "toponym": "Mantua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79784,
+          45.16031
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "226",
+        "toponym": "Mantua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "227",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79784,
+          45.16031
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "228",
+        "toponym": "Mantua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.81291,
+          27.25738
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "229",
+        "toponym": "Hurgada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "230",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "231",
+        "toponym": "Greece"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "233",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "234",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "235",
+        "toponym": "England"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "236",
+        "toponym": "Palm of England"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "237",
+        "toponym": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25,
+          43.76667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "239",
+        "toponym": "Florence"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83333,
+          42.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "240",
+        "toponym": "Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "241",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "242",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37164,
+          43.00586
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "243",
+        "toponym": "Ovid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "245",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.48148,
+          39.3236
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "246",
+        "toponym": "Puerto Lapice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42034,
+          36.72016
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "247",
+        "toponym": "Malaga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0644,
+          43.03802
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "249",
+        "toponym": "St. Benedict"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "250",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0644,
+          43.03802
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "251",
+        "toponym": "St. Benedict"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0644,
+          43.03802
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "252",
+        "toponym": "St. Benedict"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "256",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "259",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "263",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79784,
+          45.16031
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "264",
+        "toponym": "Mantua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0,
+          56.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "266",
+        "toponym": "Denmark"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89502,
+          35.15585
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "267",
+        "toponym": "Crete"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "268",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "269",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "270",
+        "toponym": "England"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69531,
+          54.75844
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "271",
+        "toponym": "Great Britain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "272",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69531,
+          54.75844
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "273",
+        "toponym": "Britain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "275",
+        "toponym": "Greece"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86768,
+          41.82046
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "277",
+        "toponym": "Catalonia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37739,
+          39.46975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "278",
+        "toponym": "Valencia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0,
+          41.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "285",
+        "toponym": "Aragon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05445,
+          42.62895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "287",
+        "toponym": "Castile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "289",
+        "toponym": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37924,
+          28.53834
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "291",
+        "toponym": "Orlando"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.50754,
+          27.50641
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "292",
+        "toponym": "Laredo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "294",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "295",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "296",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "297",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "299",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "301",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "303",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.82611,
+          21.42667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "304",
+        "toponym": "Mecca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0,
+          7.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "305",
+        "toponym": "Trapobana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.13606,
+          36.68645
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "316",
+        "toponym": "Jerez"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47103,
+          37.99384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "320",
+        "toponym": "Baeza"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11667,
+          40.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "321",
+        "toponym": "Segovia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47103,
+          37.99384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "322",
+        "toponym": "Baeza"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11667,
+          40.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "323",
+        "toponym": "Segovia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.07404,
+          33.44838
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "326",
+        "toponym": "Phoenix"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "328",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "330",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "331",
+        "toponym": "Estremadura"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "332",
+        "toponym": "Estremadura"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "333",
+        "toponym": "Kingdom of Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0,
+          32.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "338",
+        "toponym": "Persia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "341",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "342",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "343",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0,
+          27.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "345",
+        "toponym": "Egypt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75,
+          31.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "347",
+        "toponym": "Israel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.95,
+          38.48333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "349",
+        "toponym": "El Viso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.17908,
+          38.70936
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "350",
+        "toponym": "Almodovar del Campo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83192,
+          39.72943
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "352",
+        "toponym": "Aurora"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.17908,
+          38.70936
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "353",
+        "toponym": "Almodovar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5603,
+          37.04407
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "354",
+        "toponym": "Sierra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "355",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "357",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "358",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "361",
+        "toponym": "Greece"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37924,
+          28.53834
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "366",
+        "toponym": "Orlando"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.51466,
+          35.4212
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "374",
+        "toponym": "Roland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5603,
+          37.04407
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "385",
+        "toponym": "Sierra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5603,
+          37.04407
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "387",
+        "toponym": "Sierra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "389",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "394",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "395",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "398",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0,
+          11.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "400",
+        "toponym": "Guinea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72372,
+          41.65518
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "402",
+        "toponym": "Valladolid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0,
+          11.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "403",
+        "toponym": "Guinea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0,
+          8.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "405",
+        "toponym": "Ethiopia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "407",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5603,
+          37.04407
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "408",
+        "toponym": "Sierra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51444,
+          10.39972
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "411",
+        "toponym": "Cartagena"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "412",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "413",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "415",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "416",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.10746,
+          37.23765
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "418",
+        "toponym": "Osuna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.10746,
+          37.23765
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "419",
+        "toponym": "Osuna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42034,
+          36.72016
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "420",
+        "toponym": "Malaga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.07404,
+          33.44838
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "422",
+        "toponym": "Phoenix"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "424",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "425",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "426",
+        "toponym": "Armenia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "427",
+        "toponym": "England"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "428",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "429",
+        "toponym": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05445,
+          42.62895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "430",
+        "toponym": "Castile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "431",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.02998,
+          -8.11599
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "432",
+        "toponym": "Trujillo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "433",
+        "toponym": "Estremadura"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25,
+          43.76667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "439",
+        "toponym": "Florence"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83333,
+          42.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "440",
+        "toponym": "Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0,
+          43.41667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "441",
+        "toponym": "Tuscany"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25,
+          43.76667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "450",
+        "toponym": "Florence"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.09809,
+          37.57605
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "451",
+        "toponym": "San Giovanni"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "452",
+        "toponym": "Naples"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "453",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "463",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "465",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.66801,
+          21.12131
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "468",
+        "toponym": "Leon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "469",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "470",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "471",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "472",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48149,
+          38.34517
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "473",
+        "toponym": "Alicante"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48149,
+          38.34517
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "474",
+        "toponym": "Alicante"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.93386,
+          44.40632
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "475",
+        "toponym": "Genoa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18951,
+          45.46427
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "476",
+        "toponym": "Milan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          45.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "477",
+        "toponym": "Piedmont"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.95527,
+          31.21564
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "478",
+        "toponym": "Alessandria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39182,
+          20.66682
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "479",
+        "toponym": "Guadalajara"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32667,
+          45.43861
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "480",
+        "toponym": "Venice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "481",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0,
+          35.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "483",
+        "toponym": "Cyprus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33333,
+          47.33333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "484",
+        "toponym": "Austria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83333,
+          42.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "485",
+        "toponym": "Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.93386,
+          44.40632
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "486",
+        "toponym": "Genoa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "487",
+        "toponym": "Naples"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "489",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "490",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.69639,
+          36.91344
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "493",
+        "toponym": "Navarino"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.69639,
+          36.91344
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "495",
+        "toponym": "Navarino"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.18117,
+          -17.78629
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "496",
+        "toponym": "Santa Cruz"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "497",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          34.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "498",
+        "toponym": "Tunis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305,
+          36.81806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "499",
+        "toponym": "Goletta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          34.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "500",
+        "toponym": "Tunis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06222,
+          35.50472
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "501",
+        "toponym": "Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305,
+          36.81806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "502",
+        "toponym": "Goletta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305,
+          36.81806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "503",
+        "toponym": "Goletta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305,
+          36.81806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "504",
+        "toponym": "Goletta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "505",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "506",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75801,
+          36.95442
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "507",
+        "toponym": "Tabarca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "508",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305,
+          36.81806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "509",
+        "toponym": "Goletta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "510",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "511",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305,
+          36.81806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "512",
+        "toponym": "Goletta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "513",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "514",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "515",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "516",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "517",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "518",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "519",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "520",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13004,
+          37.98704
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "521",
+        "toponym": "Murcia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "523",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37739,
+          39.46975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "525",
+        "toponym": "Valencia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "527",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.36837,
+          35.57845
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "528",
+        "toponym": "Tetuan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "530",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37739,
+          39.46975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "531",
+        "toponym": "Valencia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "532",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19083,
+          36.605
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "533",
+        "toponym": "Shershel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "534",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64167,
+          35.69111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "535",
+        "toponym": "Oran"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9998,
+          34.03715
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "537",
+        "toponym": "Kingdom of Fez"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19083,
+          36.605
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "539",
+        "toponym": "Shershel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "540",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "542",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "543",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "544",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "545",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64167,
+          35.69111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "549",
+        "toponym": "Oran"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19083,
+          36.605
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "550",
+        "toponym": "Shershel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "551",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.36837,
+          35.57845
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "552",
+        "toponym": "Tetuan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64167,
+          35.69111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "553",
+        "toponym": "Oran"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "554",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "555",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "556",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "557",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3667,
+          36.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "558",
+        "toponym": "Straits of Gibraltar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.36837,
+          35.57845
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "559",
+        "toponym": "Tetuan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10045,
+          36.77262
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "561",
+        "toponym": "Velez Malaga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "562",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10045,
+          36.77262
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "563",
+        "toponym": "Velez Malaga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60667,
+          37.18817
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "564",
+        "toponym": "Granada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "565",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305,
+          36.81806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "566",
+        "toponym": "Goletta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "567",
+        "toponym": "Constantinople"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "568",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "569",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "570",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0,
+          -10.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "571",
+        "toponym": "Peru"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "573",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "574",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "575",
+        "toponym": "New Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "577",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.98364,
+          39.40224
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "578",
+        "toponym": "Thessaly"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "581",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "586",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0,
+          32.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "587",
+        "toponym": "Persia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0,
+          20.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "588",
+        "toponym": "India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0,
+          8.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "589",
+        "toponym": "Ethiopia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5,
+          45.66667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "590",
+        "toponym": "Lombardy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "592",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06222,
+          35.50472
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "595",
+        "toponym": "Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "596",
+        "toponym": "America"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21633,
+          31.76904
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "597",
+        "toponym": "Jerusalem"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "598",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "599",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "600",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72694,
+          41.005
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "602",
+        "toponym": "Trebizond"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "604",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33161,
+          36.86108
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "605",
+        "toponym": "Carthage"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "606",
+        "toponym": "Greece"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05445,
+          42.62895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "607",
+        "toponym": "Castile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "608",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "609",
+        "toponym": "Estremadura"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.13606,
+          36.68645
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "610",
+        "toponym": "Jerez"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "611",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "613",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "615",
+        "toponym": "Greece"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "616",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "617",
+        "toponym": "England"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69531,
+          54.75844
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "618",
+        "toponym": "Great Britain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.56444,
+          48.59209
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "619",
+        "toponym": "Pierres"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.78186,
+          50.29301
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "622",
+        "toponym": "Arras"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.09583,
+          47.88661
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "623",
+        "toponym": "Charny"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57327,
+          47.5584
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "624",
+        "toponym": "Basle"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35685,
+          44.88957
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "626",
+        "toponym": "San Polo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          51.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "627",
+        "toponym": "Germany"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33333,
+          47.33333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "628",
+        "toponym": "Austria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "629",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "630",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64827,
+          -33.45694
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "631",
+        "toponym": "Santiago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.68916,
+          39.10966
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "633",
+        "toponym": "Vicente de la Roca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83333,
+          42.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "634",
+        "toponym": "Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          32.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "635",
+        "toponym": "Morocco"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0,
+          34.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "636",
+        "toponym": "Tunis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "637",
+        "toponym": "Naples"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.03534,
+          34.13973
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "638",
+        "toponym": "Arcadia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "642",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "655",
+        "toponym": "Greece"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "657",
+        "toponym": "Greece"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "667",
+        "toponym": "BARCELONA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "668",
+        "toponym": "BARCELONA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.0,
+          35.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "669",
+        "toponym": "Emperor of China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.0,
+          35.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "670",
+        "toponym": "China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "671",
+        "toponym": "Naples"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "672",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.00146,
+          41.50202
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "673",
+        "toponym": "Tordesillas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25,
+          41.11667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "674",
+        "toponym": "Tarragona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "675",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "677",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "678",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "680",
+        "toponym": "Naples"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          37.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "681",
+        "toponym": "Sicily"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "683",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "684",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "685",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "686",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "687",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09421,
+          26.93422
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "688",
+        "toponym": "Jupiter"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09421,
+          26.93422
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "691",
+        "toponym": "Senor Jupiter"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "693",
+        "toponym": "England"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "694",
+        "toponym": "Greece"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09421,
+          26.93422
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "698",
+        "toponym": "Jupiter"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          37.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "699",
+        "toponym": "Sicily"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "700",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.51466,
+          35.4212
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "701",
+        "toponym": "Roland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37924,
+          28.53834
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "703",
+        "toponym": "Orlando"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "705",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "707",
+        "toponym": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "708",
+        "toponym": "Barcelona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37739,
+          39.46975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "709",
+        "toponym": "Valencia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.40346,
+          51.21989
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "710",
+        "toponym": "Antwerp"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11667,
+          40.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "712",
+        "toponym": "Segovia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.85139,
+          -19.76972
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "714",
+        "toponym": "Santa Lucia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0,
+          41.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "718",
+        "toponym": "Aragon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "719",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.22994,
+          8.484
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "720",
+        "toponym": "St. George"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0,
+          41.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "721",
+        "toponym": "Aragon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64827,
+          -33.45694
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "722",
+        "toponym": "Santiago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "723",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "724",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          32.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "725",
+        "toponym": "Morocco"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.29128,
+          33.5102
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "726",
+        "toponym": "Damascus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0,
+          27.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "727",
+        "toponym": "Egypt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "728",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01173,
+          40.6959
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "729",
+        "toponym": "Mars"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "731",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "733",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "734",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "735",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.36817,
+          36.27134
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "737",
+        "toponym": "Tagus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "738",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.31667,
+          43.98333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "739",
+        "toponym": "Rotunda"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "740",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "741",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "742",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "744",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.51466,
+          35.4212
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "745",
+        "toponym": "Roland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "746",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "747",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "749",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "751",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "754",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "758",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.20111,
+          44.4175
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "760",
+        "toponym": "Ravena"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "761",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "762",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "763",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "766",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "767",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "769",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42187,
+          51.60954
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "775",
+        "toponym": "Grove"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42187,
+          51.60954
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "776",
+        "toponym": "Grove"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42187,
+          51.60954
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "778",
+        "toponym": "Grove"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "781",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "784",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1395,
+          40.22225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "786",
+        "toponym": "Guisando"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1395,
+          40.22225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "787",
+        "toponym": "Guisando"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "788",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "789",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "793",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "794",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "795",
+        "toponym": "Andalusia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42187,
+          51.60954
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "796",
+        "toponym": "Grove"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42187,
+          51.60954
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "797",
+        "toponym": "Grove"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19883,
+          39.89061
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "798",
+        "toponym": "Vandalia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "800",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "804",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "809",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "810",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "811",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64167,
+          35.69111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "812",
+        "toponym": "Oran"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06222,
+          35.50472
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "813",
+        "toponym": "Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "814",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06222,
+          35.50472
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "817",
+        "toponym": "Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "818",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0,
+          35.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "819",
+        "toponym": "Cyprus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71622,
+          37.97945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "820",
+        "toponym": "Athens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.85341
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "821",
+        "toponym": "Paris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "822",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0,
+          35.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "823",
+        "toponym": "Cyprus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "824",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07361,
+          -30.41722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "826",
+        "toponym": "Quiteria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07361,
+          -30.41722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "827",
+        "toponym": "Quiteria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "828",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "830",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07361,
+          -30.41722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "831",
+        "toponym": "Quiteria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83192,
+          39.72943
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "832",
+        "toponym": "Aurora"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00453,
+          -2.90054
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "833",
+        "toponym": "Cuenca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07361,
+          -30.41722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "834",
+        "toponym": "Quiteria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07361,
+          -30.41722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "835",
+        "toponym": "Quiteria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07361,
+          -30.41722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "836",
+        "toponym": "Quiteria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07361,
+          -30.41722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "837",
+        "toponym": "Quiteria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07361,
+          -30.41722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "838",
+        "toponym": "Quiteria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.07361,
+          -30.41722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "839",
+        "toponym": "Quiteria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0,
+          27.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "840",
+        "toponym": "Egypt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "843",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37164,
+          43.00586
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "844",
+        "toponym": "Ovid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37164,
+          43.00586
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "845",
+        "toponym": "Ovid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "846",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1395,
+          40.22225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "848",
+        "toponym": "Guisando"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "851",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.88649,
+          36.73146
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "856",
+        "toponym": "Belerma"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "857",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.88322,
+          38.97775
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "859",
+        "toponym": "Ruidera"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "860",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "861",
+        "toponym": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "866",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69531,
+          54.75844
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "867",
+        "toponym": "Britain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.88649,
+          36.73146
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "869",
+        "toponym": "Belerma"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79784,
+          45.16031
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "870",
+        "toponym": "Mantua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13057,
+          39.6945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "871",
+        "toponym": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37164,
+          43.00586
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "873",
+        "toponym": "Ovid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "874",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "876",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "877",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83333,
+          42.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "879",
+        "toponym": "Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28858,
+          38.01714
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "880",
+        "toponym": "Hercules"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "882",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "883",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "885",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "886",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "887",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.85341
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "888",
+        "toponym": "Paris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "890",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.85341
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "891",
+        "toponym": "Paris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "893",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05445,
+          42.62895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "894",
+        "toponym": "Castile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "896",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "897",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "898",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0,
+          41.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "901",
+        "toponym": "Aragon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8741,
+          30.44797
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "904",
+        "toponym": "Ebro"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "905",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.28477,
+          19.98912
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "906",
+        "toponym": "Zamora"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8741,
+          30.44797
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "909",
+        "toponym": "Ebro"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8741,
+          30.44797
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "910",
+        "toponym": "Ebro"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69531,
+          54.75844
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "915",
+        "toponym": "Britain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64827,
+          -33.45694
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "916",
+        "toponym": "Santiago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.50429,
+          39.69541
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "917",
+        "toponym": "Tembleque"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "918",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "920",
+        "toponym": "Naples"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "923",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99726,
+          39.51333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "927",
+        "toponym": "El Toboso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "928",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "931",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "933",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00453,
+          -2.90054
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "934",
+        "toponym": "Cuenca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "935",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.74501,
+          38.02822
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "936",
+        "toponym": "Montesinos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "940",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61759,
+          40.90343
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "945",
+        "toponym": "Flanders"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.41979,
+          42.51734
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "950",
+        "toponym": "Merlin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "956",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0,
+          7.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "959",
+        "toponym": "Trapobana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.53841,
+          8.09008
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "961",
+        "toponym": "Cape Comorin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.41075,
+          34.23314
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "962",
+        "toponym": "Earth"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79784,
+          45.16031
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "963",
+        "toponym": "Mantua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25,
+          6.66667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "966",
+        "toponym": "South"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "976",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.75306,
+          -19.58361
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "977",
+        "toponym": "Potosi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "979",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "982",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "983",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "984",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "985",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.04799,
+          49.20666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "986",
+        "toponym": "moon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91129,
+          -53.15483
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "988",
+        "toponym": "Senora Magallanes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.41979,
+          42.51734
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "992",
+        "toponym": "Merlin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.74501,
+          38.02822
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "995",
+        "toponym": "Montesinos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          51.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "996",
+        "toponym": "Germany"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.52217,
+          32.6756
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1001",
+        "toponym": "Araby"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0,
+          28.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1002",
+        "toponym": "Libya"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.54987,
+          42.56898
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1003",
+        "toponym": "Jaca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4656,
+          33.94279
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1007",
+        "toponym": "Arlanza"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1010",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1012",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06339,
+          38.84522
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1015",
+        "toponym": "Caracuel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06339,
+          38.84522
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1017",
+        "toponym": "Caracuel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1018",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.89047,
+          38.96442
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1019",
+        "toponym": "Miguelturra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0,
+          41.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1021",
+        "toponym": "Aragon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0,
+          41.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1022",
+        "toponym": "Aragon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.84476,
+          43.36029
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1024",
+        "toponym": "Oviedo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1025",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.160911,
+          40.302848
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1026",
+        "toponym": "Calle de\nSantiago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1027",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39182,
+          20.66682
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1028",
+        "toponym": "Guadalajara"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0,
+          41.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1029",
+        "toponym": "Aragon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18951,
+          45.46427
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1031",
+        "toponym": "Milan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1032",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.37441,
+          40.62601
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1033",
+        "toponym": "Sorrento"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.82472,
+          37.61032
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1035",
+        "toponym": "Cantillana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1040",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1041",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0,
+          41.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1044",
+        "toponym": "Aragon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1045",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1046",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1047",
+        "toponym": "BARATARIA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1050",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1051",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1052",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1053",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8749,
+          31.1801
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1054",
+        "toponym": "La Berrueca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1055",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.61759,
+          40.90343
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1056",
+        "toponym": "Flanders"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1058",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1060",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1061",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1062",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06222,
+          35.50472
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1064",
+        "toponym": "Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1065",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1066",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83333,
+          42.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1067",
+        "toponym": "Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          51.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1068",
+        "toponym": "Germany"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88333,
+          48.36667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1069",
+        "toponym": "Augsburg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1070",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37739,
+          39.46975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1071",
+        "toponym": "Valencia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1072",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          51.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1073",
+        "toponym": "Germany"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1074",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1075",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1076",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1077",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1278328,
+          51.5072648
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1084",
+        "toponym": "London"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70312,
+          52.16045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1085",
+        "toponym": "England"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97613,
+          37.38241
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1086",
+        "toponym": "Seville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1089",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06222,
+          35.50472
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1091",
+        "toponym": "Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06222,
+          35.50472
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1092",
+        "toponym": "Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64827,
+          -33.45694
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1093",
+        "toponym": "Santiago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1094",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1095",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1096",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01173,
+          40.6959
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1098",
+        "toponym": "Mars"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.03534,
+          34.13973
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1099",
+        "toponym": "Arcadia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1100",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1102",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.03534,
+          34.13973
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1106",
+        "toponym": "Arcadia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1108",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1113",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1115",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1116",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1117",
+        "toponym": "BARCELONA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1118",
+        "toponym": "Barcelona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1119",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1123",
+        "toponym": "Barcelona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1124",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1125",
+        "toponym": "Naples"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          37.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1126",
+        "toponym": "Sicily"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839,
+          41.89474
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1127",
+        "toponym": "Rome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.83333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1128",
+        "toponym": "Naples"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1130",
+        "toponym": "Barcelona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1131",
+        "toponym": "BARCELONA"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83192,
+          39.72943
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1132",
+        "toponym": "Aurora"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.88322,
+          38.97775
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1133",
+        "toponym": "Ruidera"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12369,
+          29.72327
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1136",
+        "toponym": "Barataria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1141",
+        "toponym": "Madrid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1149",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1150",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1151",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1152",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1153",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          51.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1155",
+        "toponym": "Germany"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1156",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          46.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1158",
+        "toponym": "France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1159",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04197,
+          36.7525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1169",
+        "toponym": "Algiers"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1170",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1171",
+        "toponym": "Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1172",
+        "toponym": "Barcelona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.66388,
+          40.96882
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1174",
+        "toponym": "Salamanca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05445,
+          42.62895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1176",
+        "toponym": "Castile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1177",
+        "toponym": "Barcelona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.03534,
+          34.13973
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1182",
+        "toponym": "Arcadia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1188",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1190",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32667,
+          45.43861
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1197",
+        "toponym": "Venice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33161,
+          36.86108
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1198",
+        "toponym": "Carthage"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.85341
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1199",
+        "toponym": "Paris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60667,
+          37.18817
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1200",
+        "toponym": "Granada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1201",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55521,
+          41.66394
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1203",
+        "toponym": "Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87734,
+          41.65606
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1204",
+        "toponym": "Saragossa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1205",
+        "toponym": "Barcelona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1221",
+        "toponym": "Greece"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1223",
+        "toponym": "United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1224",
+        "toponym": "United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1225",
+        "toponym": "United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1226",
+        "toponym": "United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1227",
+        "toponym": "United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1228",
+        "toponym": "United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0,
+          38.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1229",
+        "toponym": "United\nStates"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1230",
+        "toponym": "United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75036,
+          32.75041
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1231",
+        "toponym": "Mississippi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1232",
+        "toponym": "U.S."
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89105,
+          40.76078
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1234",
+        "toponym": "Salt Lake City"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.75103,
+          39.25024
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1235",
+        "toponym": "UT"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0,
+          38.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1236",
+        "toponym": "United\nStates"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1237",
+        "toponym": "United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1238",
+        "toponym": "U.S."
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "offset": "1239",
+        "toponym": "U.S."
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
