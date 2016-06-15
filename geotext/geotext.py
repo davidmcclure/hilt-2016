@@ -2,10 +2,11 @@
 
 import click
 import csv
+import geojson
 import json
+import shapely
 
 from bs4 import BeautifulSoup
-from geojson import Point, Feature, FeatureCollection
 from geopy.geocoders import GoogleV3
 
 
@@ -101,18 +102,41 @@ def csv_to_geojson(in_file, out_file):
         lat = float(row.pop('latitude'))
         lon = float(row.pop('longitude'))
 
-        point = Point((lon, lat))
+        point = geojson.Point((lon, lat))
 
-        feature = Feature(
+        feature = geojson.Feature(
             geometry=point,
             properties=row,
         )
 
         features.append(feature)
 
-    collection = FeatureCollection(features)
+    collection = geojson.FeatureCollection(features)
 
     print(json.dumps(collection, indent=2), file=out_file)
+
+
+@geotext.command()
+@click.argument('in_file', type=click.File('r'))
+@click.argument('out_file', type=click.File('w'))
+def csv_to_neatline(in_file, out_file):
+
+    """
+    Format a CSV file for Neatline.
+    """
+
+    reader = csv.DictReader(in_file)
+
+    # Add wkt field to the CSV.
+    cols = reader.fieldnames + ['wkt']
+    writer = csv.DictWriter(out_file, cols)
+    writer.writeheader()
+
+    for row in reader:
+        pass
+
+    # add wkt col
+    # use shapely the make WKT
 
 
 if __name__ == '__main__':

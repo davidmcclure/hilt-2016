@@ -4,3 +4,4 @@ click
 bs4
 geojson
 geopy
+shapely
