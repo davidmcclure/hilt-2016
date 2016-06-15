@@ -2,12 +2,16 @@
 
 import click
 import csv
-import geojson
 import json
-import shapely
 
 from bs4 import BeautifulSoup
+from geojson import Point, Feature, FeatureCollection
 from geopy.geocoders import GoogleV3
+
+from shapely.geometry import Point as ShapelyPoint
+from shapely import wkt
+
+from utils import degrees_to_meters
 
 
 @click.group()
@@ -102,16 +106,16 @@ def csv_to_geojson(in_file, out_file):
         lat = float(row.pop('latitude'))
         lon = float(row.pop('longitude'))
 
-        point = geojson.Point((lon, lat))
+        point = Point((lon, lat))
 
-        feature = geojson.Feature(
+        feature = Feature(
             geometry=point,
             properties=row,
         )
 
         features.append(feature)
 
-    collection = geojson.FeatureCollection(features)
+    collection = FeatureCollection(features)
 
     print(json.dumps(collection, indent=2), file=out_file)
 
@@ -133,10 +137,18 @@ def csv_to_neatline(in_file, out_file):
     writer.writeheader()
 
     for row in reader:
-        pass
 
-    # add wkt col
-    # use shapely the make WKT
+        lat = float(row.pop('latitude'))
+        lon = float(row.pop('longitude'))
+
+        # Convert degrees -> meters.
+        meters = degrees_to_meters(lon, lat)
+
+        # Convert to WKT.
+        point = ShapelyPoint(meters)
+        row['wkt'] = wkt.dumps(point)
+
+        writer.writerow(row)
 
 
 if __name__ == '__main__':
