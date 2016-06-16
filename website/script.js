@@ -2,11 +2,13 @@
 
 function createMap(json) {
 
+
   // ** Map
 
   var map = L.map('map').setView([0, 0], 2);
 
   var layer = L.tileLayer.provider('Esri.WorldGrayCanvas');
+  //var layer = L.tileLayer('URL');
 
   map.addLayer(layer)
 
@@ -28,10 +30,10 @@ function createMap(json) {
     // Attach the tooltip.
     marker.bindPopup(f.properties.toponym);
 
-    map.addLayer(marker);
     markers.push(marker);
 
   });
+
 
   // ** Slider
 
@@ -63,6 +65,18 @@ function createMap(json) {
   });
 
   input.trigger('input');
+
+
+  // ** Marker clusters
+
+  var clusters = L.markerClusterGroup();
+
+  _.each(markers, function(m) {
+    clusters.addLayer(m);
+  });
+
+  map.addLayer(clusters);
+
 
 }
 
