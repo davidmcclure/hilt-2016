@@ -3,5 +3,6 @@ ipython
 click
 bs4
 geojson
-geopy
 shapely
+
+-e git+https://github.com/geopy/geopy.git#egg=geopy

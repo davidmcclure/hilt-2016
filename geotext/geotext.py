@@ -1,12 +1,13 @@
 
 
+import os
 import click
 import csv
 import json
 
 from bs4 import BeautifulSoup
 from geojson import Point, Feature, FeatureCollection
-from geopy.geocoders import GoogleV3
+from geopy.geocoders import Mapzen
 
 from shapely.geometry import Point as ShapelyPoint
 from shapely import wkt
@@ -53,10 +54,9 @@ def geocode(in_file, out_file):
 
     reader = csv.DictReader(in_file)
 
-    geocoder = GoogleV3(
-        domain='dstk.dclure.org',
+    geocoder = Mapzen(
+        os.environ['MAPZEN_KEY'],
         timeout=10,
-        scheme='http',
     )
 
     # Add lon/lat fields to the CSV.
