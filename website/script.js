@@ -96,6 +96,14 @@ function createMap(json) {
   map.addLayer(heat);
 
 
+  // ** Minimap
+
+  var osm = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png');
+
+  var miniMap = new L.Control.MiniMap(osm);
+  miniMap.addTo(map);
+
+
 }
 
 
