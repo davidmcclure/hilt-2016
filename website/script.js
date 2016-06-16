@@ -78,6 +78,24 @@ function createMap(json) {
   map.addLayer(clusters);
 
 
+  // ** Heatmap
+
+  var points = _.map(json.features, function(f) {
+
+    var lat = f.geometry.coordinates[1];
+    var lon = f.geometry.coordinates[0];
+
+    return [lat, lon, 1];
+
+  });
+
+  var heat = L.heatLayer(points, {
+    minOpacity: 0.3
+  });
+
+  map.addLayer(heat);
+
+
 }
 
 
